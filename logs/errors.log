@@ -1,0 +1,351 @@
+[2025-07-07T22:25:01.347] [ERROR] redis_helper_service - redis error occured Error: getaddrinfo ENOTFOUND patricia_bot_redis_db
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:109:26)
+    at GetAddrInfoReqWrap.callbackTrampoline (node:internal/async_hooks:130:17) {
+  errno: -3008,
+  code: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'patricia_bot_redis_db'
+}
+[2025-07-07T22:25:02.132] [ERROR] redis_helper_service - redis error occured Error: getaddrinfo ENOTFOUND patricia_bot_redis_db
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:109:26)
+    at GetAddrInfoReqWrap.callbackTrampoline (node:internal/async_hooks:130:17) {
+  errno: -3008,
+  code: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'patricia_bot_redis_db'
+}
+[2025-07-07T22:25:02.349] [ERROR] redis_helper_service - redis error occured Error: getaddrinfo ENOTFOUND patricia_bot_redis_db
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:109:26)
+    at GetAddrInfoReqWrap.callbackTrampoline (node:internal/async_hooks:130:17) {
+  errno: -3008,
+  code: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'patricia_bot_redis_db'
+}
+[2025-07-07T22:25:06.185] [ERROR] redis_helper_service - redis error occured Error: getaddrinfo ENOTFOUND patricia_bot_redis_db
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:109:26)
+    at GetAddrInfoReqWrap.callbackTrampoline (node:internal/async_hooks:130:17) {
+  errno: -3008,
+  code: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'patricia_bot_redis_db'
+}
+[2025-07-07T22:25:06.399] [ERROR] redis_helper_service - redis error occured Error: getaddrinfo ENOTFOUND patricia_bot_redis_db
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:109:26)
+    at GetAddrInfoReqWrap.callbackTrampoline (node:internal/async_hooks:130:17) {
+  errno: -3008,
+  code: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'patricia_bot_redis_db'
+}
+[2025-07-07T22:25:07.195] [ERROR] redis_helper_service - redis error occured Error: getaddrinfo ENOTFOUND patricia_bot_redis_db
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:109:26)
+    at GetAddrInfoReqWrap.callbackTrampoline (node:internal/async_hooks:130:17) {
+  errno: -3008,
+  code: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'patricia_bot_redis_db'
+}
+[2025-07-07T22:25:07.403] [ERROR] redis_helper_service - redis error occured Error: getaddrinfo ENOTFOUND patricia_bot_redis_db
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:109:26)
+    at GetAddrInfoReqWrap.callbackTrampoline (node:internal/async_hooks:130:17) {
+  errno: -3008,
+  code: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'patricia_bot_redis_db'
+}
+[2025-07-07T22:25:08.203] [ERROR] redis_helper_service - redis error occured Error: getaddrinfo ENOTFOUND patricia_bot_redis_db
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:109:26)
+    at GetAddrInfoReqWrap.callbackTrampoline (node:internal/async_hooks:130:17) {
+  errno: -3008,
+  code: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'patricia_bot_redis_db'
+}
+[2025-07-07T22:25:08.420] [ERROR] redis_helper_service - redis error occured Error: getaddrinfo ENOTFOUND patricia_bot_redis_db
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:109:26)
+    at GetAddrInfoReqWrap.callbackTrampoline (node:internal/async_hooks:130:17) {
+  errno: -3008,
+  code: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'patricia_bot_redis_db'
+}
+[2025-07-07T22:25:09.212] [ERROR] redis_helper_service - redis error occured Error: getaddrinfo ENOTFOUND patricia_bot_redis_db
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:109:26)
+    at GetAddrInfoReqWrap.callbackTrampoline (node:internal/async_hooks:130:17) {
+  errno: -3008,
+  code: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'patricia_bot_redis_db'
+}
+[2025-07-07T22:25:09.443] [ERROR] redis_helper_service - redis error occured Error: getaddrinfo ENOTFOUND patricia_bot_redis_db
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:109:26)
+    at GetAddrInfoReqWrap.callbackTrampoline (node:internal/async_hooks:130:17) {
+  errno: -3008,
+  code: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'patricia_bot_redis_db'
+}
+[2025-07-07T22:25:10.220] [ERROR] redis_helper_service - redis error occured Error: getaddrinfo ENOTFOUND patricia_bot_redis_db
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:109:26)
+    at GetAddrInfoReqWrap.callbackTrampoline (node:internal/async_hooks:130:17) {
+  errno: -3008,
+  code: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'patricia_bot_redis_db'
+}
+[2025-07-07T22:25:10.414] [ERROR] seed module - error when seed wallet address Operation `users.findOne()` buffering timed out after 10000ms
+[2025-07-07T22:25:11.416] [ERROR] redis_helper_service - redis error occured Error: connect ETIMEDOUT
+    at Socket.<anonymous> (C:\Users\user\Desktop\Tool\XAI__Backend\node_modules\ioredis\built\Redis.js:170:41)
+    at Object.onceWrapper (node:events:638:28)
+    at Socket.emit (node:events:524:28)
+    at Socket._onTimeout (node:net:602:8)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7) {
+  errorno: 'ETIMEDOUT',
+  code: 'ETIMEDOUT',
+  syscall: 'connect'
+}
+[2025-07-07T22:25:12.219] [ERROR] redis_helper_service - redis error occured Error: connect ETIMEDOUT
+    at Socket.<anonymous> (C:\Users\user\Desktop\Tool\XAI__Backend\node_modules\ioredis\built\Redis.js:170:41)
+    at Object.onceWrapper (node:events:638:28)
+    at Socket.emit (node:events:524:28)
+    at Socket._onTimeout (node:net:602:8)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7) {
+  errorno: 'ETIMEDOUT',
+  code: 'ETIMEDOUT',
+  syscall: 'connect'
+}
+[2025-07-07T22:25:12.432] [ERROR] redis_helper_service - redis error occured Error: connect ETIMEDOUT
+    at Socket.<anonymous> (C:\Users\user\Desktop\Tool\XAI__Backend\node_modules\ioredis\built\Redis.js:170:41)
+    at Object.onceWrapper (node:events:638:28)
+    at Socket.emit (node:events:524:28)
+    at Socket._onTimeout (node:net:602:8)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7) {
+  errorno: 'ETIMEDOUT',
+  code: 'ETIMEDOUT',
+  syscall: 'connect'
+}
+[2025-07-07T22:25:16.247] [ERROR] redis_helper_service - redis error occured Error: connect ETIMEDOUT
+    at Socket.<anonymous> (C:\Users\user\Desktop\Tool\XAI__Backend\node_modules\ioredis\built\Redis.js:170:41)
+    at Object.onceWrapper (node:events:638:28)
+    at Socket.emit (node:events:524:28)
+    at Socket._onTimeout (node:net:602:8)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7) {
+  errorno: 'ETIMEDOUT',
+  code: 'ETIMEDOUT',
+  syscall: 'connect'
+}
+[2025-07-07T22:25:16.476] [ERROR] redis_helper_service - redis error occured Error: connect ETIMEDOUT
+    at Socket.<anonymous> (C:\Users\user\Desktop\Tool\XAI__Backend\node_modules\ioredis\built\Redis.js:170:41)
+    at Object.onceWrapper (node:events:638:28)
+    at Socket.emit (node:events:524:28)
+    at Socket._onTimeout (node:net:602:8)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7) {
+  errorno: 'ETIMEDOUT',
+  code: 'ETIMEDOUT',
+  syscall: 'connect'
+}
+[2025-07-07T22:25:17.307] [ERROR] redis_helper_service - redis error occured Error: connect ETIMEDOUT
+    at Socket.<anonymous> (C:\Users\user\Desktop\Tool\XAI__Backend\node_modules\ioredis\built\Redis.js:170:41)
+    at Object.onceWrapper (node:events:638:28)
+    at Socket.emit (node:events:524:28)
+    at Socket._onTimeout (node:net:602:8)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7) {
+  errorno: 'ETIMEDOUT',
+  code: 'ETIMEDOUT',
+  syscall: 'connect'
+}
+[2025-07-07T22:25:17.469] [ERROR] redis_helper_service - redis error occured Error: connect ETIMEDOUT
+    at Socket.<anonymous> (C:\Users\user\Desktop\Tool\XAI__Backend\node_modules\ioredis\built\Redis.js:170:41)
+    at Object.onceWrapper (node:events:638:28)
+    at Socket.emit (node:events:524:28)
+    at Socket._onTimeout (node:net:602:8)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7) {
+  errorno: 'ETIMEDOUT',
+  code: 'ETIMEDOUT',
+  syscall: 'connect'
+}
+[2025-07-07T22:25:18.265] [ERROR] redis_helper_service - redis error occured Error: connect ETIMEDOUT
+    at Socket.<anonymous> (C:\Users\user\Desktop\Tool\XAI__Backend\node_modules\ioredis\built\Redis.js:170:41)
+    at Object.onceWrapper (node:events:638:28)
+    at Socket.emit (node:events:524:28)
+    at Socket._onTimeout (node:net:602:8)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7) {
+  errorno: 'ETIMEDOUT',
+  code: 'ETIMEDOUT',
+  syscall: 'connect'
+}
+[2025-07-07T22:25:18.496] [ERROR] redis_helper_service - redis error occured Error: connect ETIMEDOUT
+    at Socket.<anonymous> (C:\Users\user\Desktop\Tool\XAI__Backend\node_modules\ioredis\built\Redis.js:170:41)
+    at Object.onceWrapper (node:events:638:28)
+    at Socket.emit (node:events:524:28)
+    at Socket._onTimeout (node:net:602:8)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7) {
+  errorno: 'ETIMEDOUT',
+  code: 'ETIMEDOUT',
+  syscall: 'connect'
+}
+[2025-07-07T22:25:19.281] [ERROR] redis_helper_service - redis error occured Error: connect ETIMEDOUT
+    at Socket.<anonymous> (C:\Users\user\Desktop\Tool\XAI__Backend\node_modules\ioredis\built\Redis.js:170:41)
+    at Object.onceWrapper (node:events:638:28)
+    at Socket.emit (node:events:524:28)
+    at Socket._onTimeout (node:net:602:8)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7) {
+  errorno: 'ETIMEDOUT',
+  code: 'ETIMEDOUT',
+  syscall: 'connect'
+}
+[2025-07-07T22:25:19.503] [ERROR] redis_helper_service - redis error occured Error: connect ETIMEDOUT
+    at Socket.<anonymous> (C:\Users\user\Desktop\Tool\XAI__Backend\node_modules\ioredis\built\Redis.js:170:41)
+    at Object.onceWrapper (node:events:638:28)
+    at Socket.emit (node:events:524:28)
+    at Socket._onTimeout (node:net:602:8)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7) {
+  errorno: 'ETIMEDOUT',
+  code: 'ETIMEDOUT',
+  syscall: 'connect'
+}
+[2025-07-07T22:25:20.292] [ERROR] redis_helper_service - redis error occured Error: connect ETIMEDOUT
+    at Socket.<anonymous> (C:\Users\user\Desktop\Tool\XAI__Backend\node_modules\ioredis\built\Redis.js:170:41)
+    at Object.onceWrapper (node:events:638:28)
+    at Socket.emit (node:events:524:28)
+    at Socket._onTimeout (node:net:602:8)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7) {
+  errorno: 'ETIMEDOUT',
+  code: 'ETIMEDOUT',
+  syscall: 'connect'
+}
+[2025-07-07T22:25:21.543] [ERROR] redis_helper_service - redis error occured Error: connect ETIMEDOUT
+    at Socket.<anonymous> (C:\Users\user\Desktop\Tool\XAI__Backend\node_modules\ioredis\built\Redis.js:170:41)
+    at Object.onceWrapper (node:events:638:28)
+    at Socket.emit (node:events:524:28)
+    at Socket._onTimeout (node:net:602:8)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7) {
+  errorno: 'ETIMEDOUT',
+  code: 'ETIMEDOUT',
+  syscall: 'connect'
+}
+[2025-07-07T22:25:22.335] [ERROR] redis_helper_service - redis error occured Error: connect ETIMEDOUT
+    at Socket.<anonymous> (C:\Users\user\Desktop\Tool\XAI__Backend\node_modules\ioredis\built\Redis.js:170:41)
+    at Object.onceWrapper (node:events:638:28)
+    at Socket.emit (node:events:524:28)
+    at Socket._onTimeout (node:net:602:8)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7) {
+  errorno: 'ETIMEDOUT',
+  code: 'ETIMEDOUT',
+  syscall: 'connect'
+}
+[2025-07-07T22:25:22.547] [ERROR] redis_helper_service - redis error occured Error: connect ETIMEDOUT
+    at Socket.<anonymous> (C:\Users\user\Desktop\Tool\XAI__Backend\node_modules\ioredis\built\Redis.js:170:41)
+    at Object.onceWrapper (node:events:638:28)
+    at Socket.emit (node:events:524:28)
+    at Socket._onTimeout (node:net:602:8)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7) {
+  errorno: 'ETIMEDOUT',
+  code: 'ETIMEDOUT',
+  syscall: 'connect'
+}
+[2025-07-07T22:25:26.363] [ERROR] redis_helper_service - redis error occured Error: connect ETIMEDOUT
+    at Socket.<anonymous> (C:\Users\user\Desktop\Tool\XAI__Backend\node_modules\ioredis\built\Redis.js:170:41)
+    at Object.onceWrapper (node:events:638:28)
+    at Socket.emit (node:events:524:28)
+    at Socket._onTimeout (node:net:602:8)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7) {
+  errorno: 'ETIMEDOUT',
+  code: 'ETIMEDOUT',
+  syscall: 'connect'
+}
+[2025-07-07T22:25:26.589] [ERROR] redis_helper_service - redis error occured Error: connect ETIMEDOUT
+    at Socket.<anonymous> (C:\Users\user\Desktop\Tool\XAI__Backend\node_modules\ioredis\built\Redis.js:170:41)
+    at Object.onceWrapper (node:events:638:28)
+    at Socket.emit (node:events:524:28)
+    at Socket._onTimeout (node:net:602:8)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7) {
+  errorno: 'ETIMEDOUT',
+  code: 'ETIMEDOUT',
+  syscall: 'connect'
+}
+[2025-07-07T22:25:27.434] [ERROR] redis_helper_service - redis error occured Error: connect ETIMEDOUT
+    at Socket.<anonymous> (C:\Users\user\Desktop\Tool\XAI__Backend\node_modules\ioredis\built\Redis.js:170:41)
+    at Object.onceWrapper (node:events:638:28)
+    at Socket.emit (node:events:524:28)
+    at Socket._onTimeout (node:net:602:8)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7) {
+  errorno: 'ETIMEDOUT',
+  code: 'ETIMEDOUT',
+  syscall: 'connect'
+}
+[2025-07-07T22:25:27.598] [ERROR] redis_helper_service - redis error occured Error: connect ETIMEDOUT
+    at Socket.<anonymous> (C:\Users\user\Desktop\Tool\XAI__Backend\node_modules\ioredis\built\Redis.js:170:41)
+    at Object.onceWrapper (node:events:638:28)
+    at Socket.emit (node:events:524:28)
+    at Socket._onTimeout (node:net:602:8)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7) {
+  errorno: 'ETIMEDOUT',
+  code: 'ETIMEDOUT',
+  syscall: 'connect'
+}
+[2025-07-07T22:25:28.378] [ERROR] redis_helper_service - redis error occured Error: connect ETIMEDOUT
+    at Socket.<anonymous> (C:\Users\user\Desktop\Tool\XAI__Backend\node_modules\ioredis\built\Redis.js:170:41)
+    at Object.onceWrapper (node:events:638:28)
+    at Socket.emit (node:events:524:28)
+    at Socket._onTimeout (node:net:602:8)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7) {
+  errorno: 'ETIMEDOUT',
+  code: 'ETIMEDOUT',
+  syscall: 'connect'
+}
+[2025-07-07T22:25:28.623] [ERROR] redis_helper_service - redis error occured Error: connect ETIMEDOUT
+    at Socket.<anonymous> (C:\Users\user\Desktop\Tool\XAI__Backend\node_modules\ioredis\built\Redis.js:170:41)
+    at Object.onceWrapper (node:events:638:28)
+    at Socket.emit (node:events:524:28)
+    at Socket._onTimeout (node:net:602:8)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7) {
+  errorno: 'ETIMEDOUT',
+  code: 'ETIMEDOUT',
+  syscall: 'connect'
+}
+[2025-07-07T22:25:29.397] [ERROR] redis_helper_service - redis error occured Error: connect ETIMEDOUT
+    at Socket.<anonymous> (C:\Users\user\Desktop\Tool\XAI__Backend\node_modules\ioredis\built\Redis.js:170:41)
+    at Object.onceWrapper (node:events:638:28)
+    at Socket.emit (node:events:524:28)
+    at Socket._onTimeout (node:net:602:8)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7) {
+  errorno: 'ETIMEDOUT',
+  code: 'ETIMEDOUT',
+  syscall: 'connect'
+}
+[2025-07-07T22:25:29.619] [ERROR] redis_helper_service - redis error occured Error: connect ETIMEDOUT
+    at Socket.<anonymous> (C:\Users\user\Desktop\Tool\XAI__Backend\node_modules\ioredis\built\Redis.js:170:41)
+    at Object.onceWrapper (node:events:638:28)
+    at Socket.emit (node:events:524:28)
+    at Socket._onTimeout (node:net:602:8)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7) {
+  errorno: 'ETIMEDOUT',
+  code: 'ETIMEDOUT',
+  syscall: 'connect'
+}
+[2025-07-07T22:25:30.117] [ERROR] app module -  🚀 Mongoose default connection is disconnected

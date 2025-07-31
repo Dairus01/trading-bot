@@ -1,0 +1,60 @@
+version: '3.8'
+services:
+  patricia_bot:
+    container_name: patricia-bot
+    build:
+      context: .  # Directory with your Dockerfile
+      args:
+        NODE_ENV: development
+    image: patricia-bot:v1.0
+    ports:
+      - "8100:8100"
+    volumes:
+      - .:/app  # Mount the current directory to /server in the container
+    env_file:
+      - ./configs/env/.env
+    command: npm run start-dev
+    depends_on: 
+      - patricia_bot_mongo_db
+      - patricia_bot_redis_db
+    restart: always
+
+  patricia_bot_mongo_db:
+    container_name: patricia-bot-mongo-db
+    image: mongo:latest
+    restart: always
+    env_file: 
+      - ./configs/env/.env
+    ports:
+      - "27019:27017"
+    volumes:
+      - patricia_bot:/data/db
+
+  patricia_bot_redis_db:
+    container_name: patricia-bot-redis-db
+    image: redis:alpine
+    restart: always
+    ports:
+      - "6380:6379"
+
+
+  patricia_bot_redis_commander:
+    container_name: patricia-bot-redis-commander
+    image: rediscommander/redis-commander:latest
+    restart: always
+    environment:
+      REDIS_HOSTS: local:patricia_bot_redis_db
+    ports:
+      - "5052:8081"
+
+  mongo_express:
+    container_name: mongo-express
+    image: mongo-express
+    restart: always
+    ports:
+      - "8500:8081"
+    environment:
+      ME_CONFIG_MONGODB_URL: mongodb://patricia_bot_mongo_db:27017/patricia_bot
+
+volumes:
+  patricia_bot:
