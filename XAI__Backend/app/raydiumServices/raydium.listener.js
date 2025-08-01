@@ -40,4 +40,5 @@ class RaydiumPoolListener {
   }
 }
 
-module.exports = new RaydiumPoolListener();
+// Don't initialize immediately - let the app control when to start
+module.exports = RaydiumPoolListener;

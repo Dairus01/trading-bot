@@ -13,7 +13,7 @@ const redisClean = require("../app/cron/clear.redis");
 const Cron = require("../app/cron/redis.cron");
 const serverAdapter = require("../job/utils/queue.helper").getServerAdapter();
 serverAdapter.setBasePath("/admin/queues");
-require("../app/raydiumServices/raydium.listener");
+// Don't initialize Raydium listener immediately - it will be started by workers when needed
 
 class App {
   constructor() {
