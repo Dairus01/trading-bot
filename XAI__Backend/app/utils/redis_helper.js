@@ -1,12 +1,13 @@
 const logger = require("log4js").getLogger("redis_helper_service");
 const Redis = require("ioredis");
-const { REDIS_HOST, REDIS_PORT } = require("../../configs/env");
+const { REDIS_HOST, REDIS_PORT, REDIS_PASSWORD } = require("../../configs/env");
 
 class RedisHelper {
   constructor() {
     this.client = new Redis({
       host: REDIS_HOST,
       port: REDIS_PORT,
+      password: REDIS_PASSWORD,
     });
     
 
