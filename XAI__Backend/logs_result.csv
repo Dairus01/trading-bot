@@ -1,0 +1,609 @@
+"TimeUTC","timestampInMs","requestPath","requestMethod","requestQueryString","responseStatusCode","requestId","requestUserAgent","level","environment","branch","vercelCache","type","function","host","deploymentDomain","deploymentId","durationMs","region","maxMemoryUsed","memorySize","message","projectId","traceId","sessionId","invocationId","instanceId","concurrency"
+"2025-08-02 03:28:00",1754105280635,"trading-bot-ocvv.vercel.app/favicon.ico","GET","",-1,"9mxff-1754105273196-502c408ecab3","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36","error","production","main","MISS","lambda","/index.js","trading-bot-ocvv.vercel.app","trading-bot-ocvv.vercel.app","dpl_Ev6LVErBhuYGc35B5y7VUVqK9Nkr",-1,"iad1",-1,-1,"solana web3 https://mainnet.helius-rpc.com/?api-key=71f6e059-edd5-4255-a164-c8739a429f45
+Get Next Rpcssss https://mainnet.helius-rpc.com/?api-key=71f6e059-edd5-4255-a164-c8739a429f45
+numberofWorekr 1 number
+Unhandled Rejection: RangeError: Maximum call stack size exceeded
+    at Object.mkdirSync (node:fs:1349:19)
+    at mkdir (/var/task/XAI__Backend/node_modules/streamroller/lib/RollingFileWriteStream.js:270:19)
+    at mkdir (/var/task/XAI__Backend/node_modules/streamroller/lib/RollingFileWriteStream.js:276:11)
+    at mkdir (/var/task/XAI__Backend/node_modules/streamroller/lib/RollingFileWriteStream.js:277:18)
+    at mkdir (/var/task/XAI__Backend/node_modules/streamroller/lib/RollingFileWriteStream.js:277:18)
+    at mkdir (/var/task/XAI__Backend/node_modules/streamroller/lib/RollingFileWriteStream.js:277:18)
+    at mkdir (/var/task/XAI__Backend/node_modules/streamroller/lib/RollingFileWriteStream.js:277:18)
+    at mkdir (/var/task/XAI__Backend/node_modules/streamroller/lib/RollingFileWriteStream.js:277:18)
+    at mkdir (/var/task/XAI__Backend/node_modules/streamroller/lib/RollingFileWriteStream.js:277:18)
+    at mkdir (/var/task/XAI__Backend/node_modules/streamroller/lib/RollingFileWriteStream.js:277:18)
+No exports found in module ""/var/task/XAI__Backend/index.js"".
+Did you forget to export a function or a server?
+Node.js process exited with exit status: 128. The logs above can help with debugging the issue.","prj_Q8w42Wol80dgGPVIRSqZNOMFQ0Rl","","","01K1MD4Q0X9DQHYWTZA62KBVKQ","",-1
+"2025-08-02 03:27:53",1754105273373,"trading-bot-ocvv.vercel.app/favicon.ico","GET","",500,"9mxff-1754105273196-502c408ecab3","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36","error","production","main","MISS","lambda","/index.js","trading-bot-ocvv.vercel.app","trading-bot-ocvv.vercel.app","dpl_Ev6LVErBhuYGc35B5y7VUVqK9Nkr",7245,"iad1",224,2048,"","prj_Q8w42Wol80dgGPVIRSqZNOMFQ0Rl","","","01K1MD4Q0X9DQHYWTZA62KBVKQ","",1
+"2025-08-02 03:27:52",1754105272305,"trading-bot-ocvv.vercel.app/","GET","",-1,"sjjs4-1754105264832-f363173351d4","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36","error","production","main","MISS","lambda","/index.js","trading-bot-ocvv.vercel.app","trading-bot-ocvv.vercel.app","dpl_Ev6LVErBhuYGc35B5y7VUVqK9Nkr",-1,"iad1",-1,-1,"solana web3 https://mainnet.helius-rpc.com/?api-key=71f6e059-edd5-4255-a164-c8739a429f45
+Get Next Rpcssss https://mainnet.helius-rpc.com/?api-key=71f6e059-edd5-4255-a164-c8739a429f45
+numberofWorekr 1 number
+Unhandled Rejection: RangeError: Maximum call stack size exceeded
+    at Object.mkdirSync (node:fs:1349:19)
+    at mkdir (/var/task/XAI__Backend/node_modules/streamroller/lib/RollingFileWriteStream.js:270:19)
+    at mkdir (/var/task/XAI__Backend/node_modules/streamroller/lib/RollingFileWriteStream.js:276:11)
+    at mkdir (/var/task/XAI__Backend/node_modules/streamroller/lib/RollingFileWriteStream.js:277:18)
+    at mkdir (/var/task/XAI__Backend/node_modules/streamroller/lib/RollingFileWriteStream.js:277:18)
+    at mkdir (/var/task/XAI__Backend/node_modules/streamroller/lib/RollingFileWriteStream.js:277:18)
+    at mkdir (/var/task/XAI__Backend/node_modules/streamroller/lib/RollingFileWriteStream.js:277:18)
+    at mkdir (/var/task/XAI__Backend/node_modules/streamroller/lib/RollingFileWriteStream.js:277:18)
+    at mkdir (/var/task/XAI__Backend/node_modules/streamroller/lib/RollingFileWriteStream.js:277:18)
+    at mkdir (/var/task/XAI__Backend/node_modules/streamroller/lib/RollingFileWriteStream.js:277:18)
+No exports found in module ""/var/task/XAI__Backend/index.js"".
+Did you forget to export a function or a server?
+Node.js process exited with exit status: 128. The logs above can help with debugging the issue.","prj_Q8w42Wol80dgGPVIRSqZNOMFQ0Rl","","","01K1MD4EXKYP3JA4JXHT0X25TQ","",-1
+"2025-08-02 03:27:45",1754105265075,"trading-bot-ocvv.vercel.app/","GET","",500,"sjjs4-1754105264832-f363173351d4","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36","error","production","main","MISS","lambda","/index.js","trading-bot-ocvv.vercel.app","trading-bot-ocvv.vercel.app","dpl_Ev6LVErBhuYGc35B5y7VUVqK9Nkr",7202,"iad1",224,2048,"","prj_Q8w42Wol80dgGPVIRSqZNOMFQ0Rl","","","01K1MD4EXKYP3JA4JXHT0X25TQ","",1
+"2025-08-02 03:23:43",1754105023886,"trading-bot-ocvv-96kxikme8-dairus-projects-b0d274d8.vercel.app/favicon.ico","GET","",-1,"mmc5s-1754105016560-f5e03c748113","vercel-favicon/1.0","error","production","main","MISS","lambda","/index.js","trading-bot-ocvv-96kxikme8-dairus-projects-b0d274d8.vercel.app","trading-bot-ocvv-96kxikme8-dairus-projects-b0d274d8.vercel.app","dpl_Ev6LVErBhuYGc35B5y7VUVqK9Nkr",-1,"iad1",-1,-1,"solana web3 https://mainnet.helius-rpc.com/?api-key=71f6e059-edd5-4255-a164-c8739a429f45
+Get Next Rpcssss https://mainnet.helius-rpc.com/?api-key=71f6e059-edd5-4255-a164-c8739a429f45
+numberofWorekr 1 number
+Unhandled Rejection: RangeError: Maximum call stack size exceeded
+    at Object.mkdirSync (node:fs:1349:19)
+    at mkdir (/var/task/XAI__Backend/node_modules/streamroller/lib/RollingFileWriteStream.js:270:19)
+    at mkdir (/var/task/XAI__Backend/node_modules/streamroller/lib/RollingFileWriteStream.js:276:11)
+    at mkdir (/var/task/XAI__Backend/node_modules/streamroller/lib/RollingFileWriteStream.js:277:18)
+    at mkdir (/var/task/XAI__Backend/node_modules/streamroller/lib/RollingFileWriteStream.js:277:18)
+    at mkdir (/var/task/XAI__Backend/node_modules/streamroller/lib/RollingFileWriteStream.js:277:18)
+    at mkdir (/var/task/XAI__Backend/node_modules/streamroller/lib/RollingFileWriteStream.js:277:18)
+    at mkdir (/var/task/XAI__Backend/node_modules/streamroller/lib/RollingFileWriteStream.js:277:18)
+    at mkdir (/var/task/XAI__Backend/node_modules/streamroller/lib/RollingFileWriteStream.js:277:18)
+    at mkdir (/var/task/XAI__Backend/node_modules/streamroller/lib/RollingFileWriteStream.js:277:18)
+No exports found in module ""/var/task/XAI__Backend/index.js"".
+Did you forget to export a function or a server?
+Node.js process exited with exit status: 128. The logs above can help with debugging the issue.","prj_Q8w42Wol80dgGPVIRSqZNOMFQ0Rl","","","01K1MCWW8YAB5GG6KREHW0YR2K","",-1
+"2025-08-02 03:23:39",1754105019665,"trading-bot-ocvv.vercel.app/favicon.ico","GET","",-1,"zn66f-1754105012187-ef32ca9eef6c","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36","error","production","main","MISS","lambda","/index.js","trading-bot-ocvv.vercel.app","trading-bot-ocvv.vercel.app","dpl_Ev6LVErBhuYGc35B5y7VUVqK9Nkr",-1,"iad1",-1,-1,"solana web3 https://mainnet.helius-rpc.com/?api-key=71f6e059-edd5-4255-a164-c8739a429f45
+Get Next Rpcssss https://mainnet.helius-rpc.com/?api-key=71f6e059-edd5-4255-a164-c8739a429f45
+numberofWorekr 1 number
+Unhandled Rejection: RangeError: Maximum call stack size exceeded
+    at Object.mkdirSync (node:fs:1349:19)
+    at mkdir (/var/task/XAI__Backend/node_modules/streamroller/lib/RollingFileWriteStream.js:270:19)
+    at mkdir (/var/task/XAI__Backend/node_modules/streamroller/lib/RollingFileWriteStream.js:276:11)
+    at mkdir (/var/task/XAI__Backend/node_modules/streamroller/lib/RollingFileWriteStream.js:277:18)
+    at mkdir (/var/task/XAI__Backend/node_modules/streamroller/lib/RollingFileWriteStream.js:277:18)
+    at mkdir (/var/task/XAI__Backend/node_modules/streamroller/lib/RollingFileWriteStream.js:277:18)
+    at mkdir (/var/task/XAI__Backend/node_modules/streamroller/lib/RollingFileWriteStream.js:277:18)
+    at mkdir (/var/task/XAI__Backend/node_modules/streamroller/lib/RollingFileWriteStream.js:277:18)
+    at mkdir (/var/task/XAI__Backend/node_modules/streamroller/lib/RollingFileWriteStream.js:277:18)
+    at mkdir (/var/task/XAI__Backend/node_modules/streamroller/lib/RollingFileWriteStream.js:277:18)
+No exports found in module ""/var/task/XAI__Backend/index.js"".
+Did you forget to export a function or a server?
+Node.js process exited with exit status: 128. The logs above can help with debugging the issue.","prj_Q8w42Wol80dgGPVIRSqZNOMFQ0Rl","","","01K1MCWR661QC32G4B6T8Y6D8Q","",-1
+"2025-08-02 03:23:36",1754105016606,"trading-bot-ocvv-96kxikme8-dairus-projects-b0d274d8.vercel.app/favicon.ico","GET","",500,"mmc5s-1754105016560-f5e03c748113","vercel-favicon/1.0","error","production","main","MISS","lambda","/index.js","trading-bot-ocvv-96kxikme8-dairus-projects-b0d274d8.vercel.app","trading-bot-ocvv-96kxikme8-dairus-projects-b0d274d8.vercel.app","dpl_Ev6LVErBhuYGc35B5y7VUVqK9Nkr",7263,"iad1",224,2048,"","prj_Q8w42Wol80dgGPVIRSqZNOMFQ0Rl","","","01K1MCWW8YAB5GG6KREHW0YR2K","",1
+"2025-08-02 03:23:34",1754105014469,"trading-bot-ocvv-96kxikme8-dairus-projects-b0d274d8.vercel.app/favicon.ico","GET","",-1,"cgdvm-1754105007044-ed94365a3ad7","vercel-favicon/1.0","error","production","main","MISS","lambda","/index.js","trading-bot-ocvv-96kxikme8-dairus-projects-b0d274d8.vercel.app","trading-bot-ocvv-96kxikme8-dairus-projects-b0d274d8.vercel.app","dpl_Ev6LVErBhuYGc35B5y7VUVqK9Nkr",-1,"iad1",-1,-1,"solana web3 https://mainnet.helius-rpc.com/?api-key=71f6e059-edd5-4255-a164-c8739a429f45
+Get Next Rpcssss https://mainnet.helius-rpc.com/?api-key=71f6e059-edd5-4255-a164-c8739a429f45
+numberofWorekr 1 number
+Unhandled Rejection: RangeError: Maximum call stack size exceeded
+    at Object.mkdirSync (node:fs:1349:19)
+    at mkdir (/var/task/XAI__Backend/node_modules/streamroller/lib/RollingFileWriteStream.js:270:19)
+    at mkdir (/var/task/XAI__Backend/node_modules/streamroller/lib/RollingFileWriteStream.js:276:11)
+    at mkdir (/var/task/XAI__Backend/node_modules/streamroller/lib/RollingFileWriteStream.js:277:18)
+    at mkdir (/var/task/XAI__Backend/node_modules/streamroller/lib/RollingFileWriteStream.js:277:18)
+    at mkdir (/var/task/XAI__Backend/node_modules/streamroller/lib/RollingFileWriteStream.js:277:18)
+    at mkdir (/var/task/XAI__Backend/node_modules/streamroller/lib/RollingFileWriteStream.js:277:18)
+    at mkdir (/var/task/XAI__Backend/node_modules/streamroller/lib/RollingFileWriteStream.js:277:18)
+    at mkdir (/var/task/XAI__Backend/node_modules/streamroller/lib/RollingFileWriteStream.js:277:18)
+    at mkdir (/var/task/XAI__Backend/node_modules/streamroller/lib/RollingFileWriteStream.js:277:18)
+No exports found in module ""/var/task/XAI__Backend/index.js"".
+Did you forget to export a function or a server?
+Node.js process exited with exit status: 128. The logs above can help with debugging the issue.","prj_Q8w42Wol80dgGPVIRSqZNOMFQ0Rl","","","01K1MCWK2W3DF3RKM9CCVS03PV","",-1
+"2025-08-02 03:23:32",1754105012422,"trading-bot-ocvv.vercel.app/favicon.ico","GET","",500,"zn66f-1754105012187-ef32ca9eef6c","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36","error","production","main","MISS","lambda","/index.js","trading-bot-ocvv.vercel.app","trading-bot-ocvv.vercel.app","dpl_Ev6LVErBhuYGc35B5y7VUVqK9Nkr",7224,"iad1",224,2048,"","prj_Q8w42Wol80dgGPVIRSqZNOMFQ0Rl","","","01K1MCWR661QC32G4B6T8Y6D8Q","",1
+"2025-08-02 03:23:31",1754105011120,"trading-bot-ocvv.vercel.app/","GET","",-1,"clt2c-1754105003476-fe9ed9e9d1d2","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36","error","production","main","MISS","lambda","/index.js","trading-bot-ocvv.vercel.app","trading-bot-ocvv.vercel.app","dpl_Ev6LVErBhuYGc35B5y7VUVqK9Nkr",-1,"iad1",-1,-1,"solana web3 https://mainnet.helius-rpc.com/?api-key=71f6e059-edd5-4255-a164-c8739a429f45
+Get Next Rpcssss https://mainnet.helius-rpc.com/?api-key=71f6e059-edd5-4255-a164-c8739a429f45
+numberofWorekr 1 number
+Unhandled Rejection: RangeError: Maximum call stack size exceeded
+    at Object.mkdirSync (node:fs:1349:19)
+    at mkdir (/var/task/XAI__Backend/node_modules/streamroller/lib/RollingFileWriteStream.js:270:19)
+    at mkdir (/var/task/XAI__Backend/node_modules/streamroller/lib/RollingFileWriteStream.js:276:11)
+    at mkdir (/var/task/XAI__Backend/node_modules/streamroller/lib/RollingFileWriteStream.js:277:18)
+    at mkdir (/var/task/XAI__Backend/node_modules/streamroller/lib/RollingFileWriteStream.js:277:18)
+    at mkdir (/var/task/XAI__Backend/node_modules/streamroller/lib/RollingFileWriteStream.js:277:18)
+    at mkdir (/var/task/XAI__Backend/node_modules/streamroller/lib/RollingFileWriteStream.js:277:18)
+    at mkdir (/var/task/XAI__Backend/node_modules/streamroller/lib/RollingFileWriteStream.js:277:18)
+    at mkdir (/var/task/XAI__Backend/node_modules/streamroller/lib/RollingFileWriteStream.js:277:18)
+    at mkdir (/var/task/XAI__Backend/node_modules/streamroller/lib/RollingFileWriteStream.js:277:18)
+No exports found in module ""/var/task/XAI__Backend/index.js"".
+Did you forget to export a function or a server?
+Node.js process exited with exit status: 128. The logs above can help with debugging the issue.","prj_Q8w42Wol80dgGPVIRSqZNOMFQ0Rl","","","01K1MCWFTPQ75B8M7NSNSQZMC1","",-1
+"2025-08-02 03:23:27",1754105007196,"trading-bot-ocvv-96kxikme8-dairus-projects-b0d274d8.vercel.app/favicon.ico","GET","",500,"cgdvm-1754105007044-ed94365a3ad7","vercel-favicon/1.0","error","production","main","MISS","lambda","/index.js","trading-bot-ocvv-96kxikme8-dairus-projects-b0d274d8.vercel.app","trading-bot-ocvv-96kxikme8-dairus-projects-b0d274d8.vercel.app","dpl_Ev6LVErBhuYGc35B5y7VUVqK9Nkr",7255,"iad1",224,2048,"","prj_Q8w42Wol80dgGPVIRSqZNOMFQ0Rl","","","01K1MCWK2W3DF3RKM9CCVS03PV","",1
+"2025-08-02 03:23:25",1754105005978,"trading-bot-ocvv-96kxikme8-dairus-projects-b0d274d8.vercel.app/favicon.ico","GET","",-1,"knkrr-1754104998710-70617b816cd9","vercel-favicon/1.0","error","production","main","MISS","lambda","/index.js","trading-bot-ocvv-96kxikme8-dairus-projects-b0d274d8.vercel.app","trading-bot-ocvv-96kxikme8-dairus-projects-b0d274d8.vercel.app","dpl_Ev6LVErBhuYGc35B5y7VUVqK9Nkr",-1,"iad1",-1,-1,"solana web3 https://mainnet.helius-rpc.com/?api-key=71f6e059-edd5-4255-a164-c8739a429f45
+Get Next Rpcssss https://mainnet.helius-rpc.com/?api-key=71f6e059-edd5-4255-a164-c8739a429f45
+numberofWorekr 1 number
+Unhandled Rejection: RangeError: Maximum call stack size exceeded
+    at Object.mkdirSync (node:fs:1349:19)
+    at mkdir (/var/task/XAI__Backend/node_modules/streamroller/lib/RollingFileWriteStream.js:270:19)
+    at mkdir (/var/task/XAI__Backend/node_modules/streamroller/lib/RollingFileWriteStream.js:276:11)
+    at mkdir (/var/task/XAI__Backend/node_modules/streamroller/lib/RollingFileWriteStream.js:277:18)
+    at mkdir (/var/task/XAI__Backend/node_modules/streamroller/lib/RollingFileWriteStream.js:277:18)
+    at mkdir (/var/task/XAI__Backend/node_modules/streamroller/lib/RollingFileWriteStream.js:277:18)
+    at mkdir (/var/task/XAI__Backend/node_modules/streamroller/lib/RollingFileWriteStream.js:277:18)
+    at mkdir (/var/task/XAI__Backend/node_modules/streamroller/lib/RollingFileWriteStream.js:277:18)
+    at mkdir (/var/task/XAI__Backend/node_modules/streamroller/lib/RollingFileWriteStream.js:277:18)
+    at mkdir (/var/task/XAI__Backend/node_modules/streamroller/lib/RollingFileWriteStream.js:277:18)
+No exports found in module ""/var/task/XAI__Backend/index.js"".
+Did you forget to export a function or a server?
+Node.js process exited with exit status: 128. The logs above can help with debugging the issue.","prj_Q8w42Wol80dgGPVIRSqZNOMFQ0Rl","","","01K1MCWATW12FBECEMCMANX65Y","",-1
+"2025-08-02 03:23:23",1754105003862,"trading-bot-ocvv.vercel.app/","GET","",500,"clt2c-1754105003476-fe9ed9e9d1d2","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36","error","production","main","MISS","lambda","/index.js","trading-bot-ocvv.vercel.app","trading-bot-ocvv.vercel.app","dpl_Ev6LVErBhuYGc35B5y7VUVqK9Nkr",7238,"iad1",224,2048,"","prj_Q8w42Wol80dgGPVIRSqZNOMFQ0Rl","","","01K1MCWFTPQ75B8M7NSNSQZMC1","",1
+"2025-08-02 03:23:23",1754105003039,"trading-bot-ocvv-96kxikme8-dairus-projects-b0d274d8.vercel.app/","GET","",-1,"knkrr-1754104995600-d368dd6b8015","vercel-favicon/1.0","error","production","main","MISS","lambda","/index.js","trading-bot-ocvv-96kxikme8-dairus-projects-b0d274d8.vercel.app","trading-bot-ocvv-96kxikme8-dairus-projects-b0d274d8.vercel.app","dpl_Ev6LVErBhuYGc35B5y7VUVqK9Nkr",-1,"iad1",-1,-1,"solana web3 https://mainnet.helius-rpc.com/?api-key=71f6e059-edd5-4255-a164-c8739a429f45
+Get Next Rpcssss https://mainnet.helius-rpc.com/?api-key=71f6e059-edd5-4255-a164-c8739a429f45
+numberofWorekr 1 number
+Unhandled Rejection: RangeError: Maximum call stack size exceeded
+    at Object.mkdirSync (node:fs:1349:19)
+    at mkdir (/var/task/XAI__Backend/node_modules/streamroller/lib/RollingFileWriteStream.js:270:19)
+    at mkdir (/var/task/XAI__Backend/node_modules/streamroller/lib/RollingFileWriteStream.js:276:11)
+    at mkdir (/var/task/XAI__Backend/node_modules/streamroller/lib/RollingFileWriteStream.js:277:18)
+    at mkdir (/var/task/XAI__Backend/node_modules/streamroller/lib/RollingFileWriteStream.js:277:18)
+    at mkdir (/var/task/XAI__Backend/node_modules/streamroller/lib/RollingFileWriteStream.js:277:18)
+    at mkdir (/var/task/XAI__Backend/node_modules/streamroller/lib/RollingFileWriteStream.js:277:18)
+    at mkdir (/var/task/XAI__Backend/node_modules/streamroller/lib/RollingFileWriteStream.js:277:18)
+    at mkdir (/var/task/XAI__Backend/node_modules/streamroller/lib/RollingFileWriteStream.js:277:18)
+    at mkdir (/var/task/XAI__Backend/node_modules/streamroller/lib/RollingFileWriteStream.js:277:18)
+No exports found in module ""/var/task/XAI__Backend/index.js"".
+Did you forget to export a function or a server?
+Node.js process exited with exit status: 128. The logs above can help with debugging the issue.","prj_Q8w42Wol80dgGPVIRSqZNOMFQ0Rl","","","01K1MCW7X4047N1QZTXAPN744S","",-1
+"2025-08-02 03:23:19",1754104999127,"trading-bot-ocvv-96kxikme8-dairus-projects-b0d274d8.vercel.app/","GET","",-1,"s7jzd-1754104991679-fa8ba14b5fc9","vercel-favicon/1.0","error","production","main","MISS","lambda","/index.js","trading-bot-ocvv-96kxikme8-dairus-projects-b0d274d8.vercel.app","trading-bot-ocvv-96kxikme8-dairus-projects-b0d274d8.vercel.app","dpl_Ev6LVErBhuYGc35B5y7VUVqK9Nkr",-1,"iad1",-1,-1,"solana web3 https://mainnet.helius-rpc.com/?api-key=71f6e059-edd5-4255-a164-c8739a429f45
+Get Next Rpcssss https://mainnet.helius-rpc.com/?api-key=71f6e059-edd5-4255-a164-c8739a429f45
+numberofWorekr 1 number
+Unhandled Rejection: RangeError: Maximum call stack size exceeded
+    at Object.mkdirSync (node:fs:1349:19)
+    at mkdir (/var/task/XAI__Backend/node_modules/streamroller/lib/RollingFileWriteStream.js:270:19)
+    at mkdir (/var/task/XAI__Backend/node_modules/streamroller/lib/RollingFileWriteStream.js:276:11)
+    at mkdir (/var/task/XAI__Backend/node_modules/streamroller/lib/RollingFileWriteStream.js:277:18)
+    at mkdir (/var/task/XAI__Backend/node_modules/streamroller/lib/RollingFileWriteStream.js:277:18)
+    at mkdir (/var/task/XAI__Backend/node_modules/streamroller/lib/RollingFileWriteStream.js:277:18)
+    at mkdir (/var/task/XAI__Backend/node_modules/streamroller/lib/RollingFileWriteStream.js:277:18)
+    at mkdir (/var/task/XAI__Backend/node_modules/streamroller/lib/RollingFileWriteStream.js:277:18)
+    at mkdir (/var/task/XAI__Backend/node_modules/streamroller/lib/RollingFileWriteStream.js:277:18)
+    at mkdir (/var/task/XAI__Backend/node_modules/streamroller/lib/RollingFileWriteStream.js:277:18)
+No exports found in module ""/var/task/XAI__Backend/index.js"".
+Did you forget to export a function or a server?
+Node.js process exited with exit status: 128. The logs above can help with debugging the issue.","prj_Q8w42Wol80dgGPVIRSqZNOMFQ0Rl","","","01K1MCW3Z7X7JY67YRA5NFGXA5","",-1
+"2025-08-02 03:23:18",1754104998748,"trading-bot-ocvv-96kxikme8-dairus-projects-b0d274d8.vercel.app/favicon.ico","GET","",500,"knkrr-1754104998710-70617b816cd9","vercel-favicon/1.0","error","production","main","MISS","lambda","/index.js","trading-bot-ocvv-96kxikme8-dairus-projects-b0d274d8.vercel.app","trading-bot-ocvv-96kxikme8-dairus-projects-b0d274d8.vercel.app","dpl_Ev6LVErBhuYGc35B5y7VUVqK9Nkr",7208,"iad1",224,2048,"","prj_Q8w42Wol80dgGPVIRSqZNOMFQ0Rl","","","01K1MCWATW12FBECEMCMANX65Y","",1
+"2025-08-02 03:23:15",1754104995748,"trading-bot-ocvv-96kxikme8-dairus-projects-b0d274d8.vercel.app/","GET","",500,"knkrr-1754104995600-d368dd6b8015","vercel-favicon/1.0","error","production","main","MISS","lambda","/index.js","trading-bot-ocvv-96kxikme8-dairus-projects-b0d274d8.vercel.app","trading-bot-ocvv-96kxikme8-dairus-projects-b0d274d8.vercel.app","dpl_Ev6LVErBhuYGc35B5y7VUVqK9Nkr",7271,"iad1",230,2048,"","prj_Q8w42Wol80dgGPVIRSqZNOMFQ0Rl","","","01K1MCW7X4047N1QZTXAPN744S","",1
+"2025-08-02 03:23:11",1754104991719,"trading-bot-ocvv-96kxikme8-dairus-projects-b0d274d8.vercel.app/","GET","",500,"s7jzd-1754104991679-fa8ba14b5fc9","vercel-favicon/1.0","error","production","main","MISS","lambda","/index.js","trading-bot-ocvv-96kxikme8-dairus-projects-b0d274d8.vercel.app","trading-bot-ocvv-96kxikme8-dairus-projects-b0d274d8.vercel.app","dpl_Ev6LVErBhuYGc35B5y7VUVqK9Nkr",7385,"iad1",224,2048,"","prj_Q8w42Wol80dgGPVIRSqZNOMFQ0Rl","","","01K1MCW3Z7X7JY67YRA5NFGXA5","",1
+"2025-08-02 03:19:52",1754104792965,"trading-bot-ocvv-96kxikme8-dairus-projects-b0d274d8.vercel.app/","GET","",-1,"4r6lj-1754104777750-86a5b7c39dd0","vercel-screenshot/1.0","error","production","main","MISS","lambda","/index.js","trading-bot-ocvv-96kxikme8-dairus-projects-b0d274d8.vercel.app","trading-bot-ocvv-96kxikme8-dairus-projects-b0d274d8.vercel.app","dpl_Ev6LVErBhuYGc35B5y7VUVqK9Nkr",-1,"iad1",-1,-1,"solana web3 https://mainnet.helius-rpc.com/?api-key=71f6e059-edd5-4255-a164-c8739a429f45
+Get Next Rpcssss https://mainnet.helius-rpc.com/?api-key=71f6e059-edd5-4255-a164-c8739a429f45
+numberofWorekr 1 number
+Unhandled Rejection: RangeError: Maximum call stack size exceeded
+    at Object.mkdirSync (node:fs:1349:19)
+    at mkdir (/var/task/XAI__Backend/node_modules/streamroller/lib/RollingFileWriteStream.js:270:19)
+    at mkdir (/var/task/XAI__Backend/node_modules/streamroller/lib/RollingFileWriteStream.js:276:11)
+    at mkdir (/var/task/XAI__Backend/node_modules/streamroller/lib/RollingFileWriteStream.js:277:18)
+    at mkdir (/var/task/XAI__Backend/node_modules/streamroller/lib/RollingFileWriteStream.js:277:18)
+    at mkdir (/var/task/XAI__Backend/node_modules/streamroller/lib/RollingFileWriteStream.js:277:18)
+    at mkdir (/var/task/XAI__Backend/node_modules/streamroller/lib/RollingFileWriteStream.js:277:18)
+    at mkdir (/var/task/XAI__Backend/node_modules/streamroller/lib/RollingFileWriteStream.js:277:18)
+    at mkdir (/var/task/XAI__Backend/node_modules/streamroller/lib/RollingFileWriteStream.js:277:18)
+    at mkdir (/var/task/XAI__Backend/node_modules/streamroller/lib/RollingFileWriteStream.js:277:18)
+No exports found in module ""/var/task/XAI__Backend/index.js"".
+Did you forget to export a function or a server?
+Node.js process exited with exit status: 128. The logs above can help with debugging the issue.
+solana web3 https://mainnet.helius-rpc.com/?api-key=71f6e059-edd5-4255-a164-c8739a429f45
+Get Next Rpcssss https://mainnet.helius-rpc.com/?api-key=71f6e059-edd5-4255-a164-c8739a429f45
+numberofWorekr 1 number
+Unhandled Rejection: RangeError: Maximum call stack size exceeded
+    at Object.mkdirSync (node:fs:1349:19)
+    at mkdir (/var/task/XAI__Backend/node_modules/streamroller/lib/RollingFileWriteStream.js:270:19)
+    at mkdir (/var/task/XAI__Backend/node_modules/streamroller/lib/RollingFileWriteStream.js:276:11)
+    at mkdir (/var/task/XAI__Backend/node_modules/streamroller/lib/RollingFileWriteStream.js:277:18)
+    at mkdir (/var/task/XAI__Backend/node_modules/streamroller/lib/RollingFileWriteStream.js:277:18)
+    at mkdir (/var/task/XAI__Backend/node_modules/streamroller/lib/RollingFileWriteStream.js:277:18)
+    at mkdir (/var/task/XAI__Backend/node_modules/streamroller/lib/RollingFileWriteStream.js:277:18)
+    at mkdir (/var/task/XAI__Backend/node_modules/streamroller/lib/RollingFileWriteStream.js:277:18)
+    at mkdir (/var/task/XAI__Backend/node_modules/streamroller/lib/RollingFileWriteStream.js:277:18)
+    at mkdir (/var/task/XAI__Backend/node_modules/streamroller/lib/RollingFileWriteStream.js:277:18)
+No exports found in module ""/var/task/XAI__Backend/index.js"".
+Did you forget to export a function or a server?
+Node.js process exited with exit status: 128. The logs above can help with debugging the issue.","prj_Q8w42Wol80dgGPVIRSqZNOMFQ0Rl","","","01K1MCNK1WH60PG2SB4VGPTHYJ","",-1
+"2025-08-02 03:19:52",1754104792618,"trading-bot-ocvv-96kxikme8-dairus-projects-b0d274d8.vercel.app/","GET","",-1,"29zz8-1754104777621-6f4c908a5202","vercel-screenshot/1.0","error","production","main","MISS","lambda","/index.js","trading-bot-ocvv-96kxikme8-dairus-projects-b0d274d8.vercel.app","trading-bot-ocvv-96kxikme8-dairus-projects-b0d274d8.vercel.app","dpl_Ev6LVErBhuYGc35B5y7VUVqK9Nkr",-1,"iad1",-1,-1,"solana web3 https://mainnet.helius-rpc.com/?api-key=71f6e059-edd5-4255-a164-c8739a429f45
+Get Next Rpcssss https://mainnet.helius-rpc.com/?api-key=71f6e059-edd5-4255-a164-c8739a429f45
+numberofWorekr 1 number
+Unhandled Rejection: RangeError: Maximum call stack size exceeded
+    at Object.mkdirSync (node:fs:1349:19)
+    at mkdir (/var/task/XAI__Backend/node_modules/streamroller/lib/RollingFileWriteStream.js:270:19)
+    at mkdir (/var/task/XAI__Backend/node_modules/streamroller/lib/RollingFileWriteStream.js:276:11)
+    at mkdir (/var/task/XAI__Backend/node_modules/streamroller/lib/RollingFileWriteStream.js:277:18)
+    at mkdir (/var/task/XAI__Backend/node_modules/streamroller/lib/RollingFileWriteStream.js:277:18)
+    at mkdir (/var/task/XAI__Backend/node_modules/streamroller/lib/RollingFileWriteStream.js:277:18)
+    at mkdir (/var/task/XAI__Backend/node_modules/streamroller/lib/RollingFileWriteStream.js:277:18)
+    at mkdir (/var/task/XAI__Backend/node_modules/streamroller/lib/RollingFileWriteStream.js:277:18)
+    at mkdir (/var/task/XAI__Backend/node_modules/streamroller/lib/RollingFileWriteStream.js:277:18)
+    at mkdir (/var/task/XAI__Backend/node_modules/streamroller/lib/RollingFileWriteStream.js:277:18)
+No exports found in module ""/var/task/XAI__Backend/index.js"".
+Did you forget to export a function or a server?
+Node.js process exited with exit status: 128. The logs above can help with debugging the issue.
+solana web3 https://mainnet.helius-rpc.com/?api-key=71f6e059-edd5-4255-a164-c8739a429f45
+Get Next Rpcssss https://mainnet.helius-rpc.com/?api-key=71f6e059-edd5-4255-a164-c8739a429f45
+numberofWorekr 1 number
+Unhandled Rejection: RangeError: Maximum call stack size exceeded
+    at Object.mkdirSync (node:fs:1349:19)
+    at mkdir (/var/task/XAI__Backend/node_modules/streamroller/lib/RollingFileWriteStream.js:270:19)
+    at mkdir (/var/task/XAI__Backend/node_modules/streamroller/lib/RollingFileWriteStream.js:276:11)
+    at mkdir (/var/task/XAI__Backend/node_modules/streamroller/lib/RollingFileWriteStream.js:277:18)
+    at mkdir (/var/task/XAI__Backend/node_modules/streamroller/lib/RollingFileWriteStream.js:277:18)
+    at mkdir (/var/task/XAI__Backend/node_modules/streamroller/lib/RollingFileWriteStream.js:277:18)
+    at mkdir (/var/task/XAI__Backend/node_modules/streamroller/lib/RollingFileWriteStream.js:277:18)
+    at mkdir (/var/task/XAI__Backend/node_modules/streamroller/lib/RollingFileWriteStream.js:277:18)
+    at mkdir (/var/task/XAI__Backend/node_modules/streamroller/lib/RollingFileWriteStream.js:277:18)
+    at mkdir (/var/task/XAI__Backend/node_modules/streamroller/lib/RollingFileWriteStream.js:277:18)
+No exports found in module ""/var/task/XAI__Backend/index.js"".
+Did you forget to export a function or a server?
+Node.js process exited with exit status: 128. The logs above can help with debugging the issue.","prj_Q8w42Wol80dgGPVIRSqZNOMFQ0Rl","","","01K1MCNK0F126TKDZC70WFHNPS","",-1
+"2025-08-02 03:19:48",1754104788727,"trading-bot-ocvv-96kxikme8-dairus-projects-b0d274d8.vercel.app/","GET","",-1,"46sdw-1754104773541-723314aae58b","vercel-screenshot/1.0","error","production","main","MISS","lambda","/index.js","trading-bot-ocvv-96kxikme8-dairus-projects-b0d274d8.vercel.app","trading-bot-ocvv-96kxikme8-dairus-projects-b0d274d8.vercel.app","dpl_Ev6LVErBhuYGc35B5y7VUVqK9Nkr",-1,"iad1",-1,-1,"solana web3 https://mainnet.helius-rpc.com/?api-key=71f6e059-edd5-4255-a164-c8739a429f45
+Get Next Rpcssss https://mainnet.helius-rpc.com/?api-key=71f6e059-edd5-4255-a164-c8739a429f45
+numberofWorekr 1 number
+Unhandled Rejection: RangeError: Maximum call stack size exceeded
+    at Object.mkdirSync (node:fs:1349:19)
+    at mkdir (/var/task/XAI__Backend/node_modules/streamroller/lib/RollingFileWriteStream.js:270:19)
+    at mkdir (/var/task/XAI__Backend/node_modules/streamroller/lib/RollingFileWriteStream.js:276:11)
+    at mkdir (/var/task/XAI__Backend/node_modules/streamroller/lib/RollingFileWriteStream.js:277:18)
+    at mkdir (/var/task/XAI__Backend/node_modules/streamroller/lib/RollingFileWriteStream.js:277:18)
+    at mkdir (/var/task/XAI__Backend/node_modules/streamroller/lib/RollingFileWriteStream.js:277:18)
+    at mkdir (/var/task/XAI__Backend/node_modules/streamroller/lib/RollingFileWriteStream.js:277:18)
+    at mkdir (/var/task/XAI__Backend/node_modules/streamroller/lib/RollingFileWriteStream.js:277:18)
+    at mkdir (/var/task/XAI__Backend/node_modules/streamroller/lib/RollingFileWriteStream.js:277:18)
+    at mkdir (/var/task/XAI__Backend/node_modules/streamroller/lib/RollingFileWriteStream.js:277:18)
+No exports found in module ""/var/task/XAI__Backend/index.js"".
+Did you forget to export a function or a server?
+Node.js process exited with exit status: 128. The logs above can help with debugging the issue.
+solana web3 https://mainnet.helius-rpc.com/?api-key=71f6e059-edd5-4255-a164-c8739a429f45
+Get Next Rpcssss https://mainnet.helius-rpc.com/?api-key=71f6e059-edd5-4255-a164-c8739a429f45
+numberofWorekr 1 number
+Unhandled Rejection: RangeError: Maximum call stack size exceeded
+    at Object.mkdirSync (node:fs:1349:19)
+    at mkdir (/var/task/XAI__Backend/node_modules/streamroller/lib/RollingFileWriteStream.js:270:19)
+    at mkdir (/var/task/XAI__Backend/node_modules/streamroller/lib/RollingFileWriteStream.js:276:11)
+    at mkdir (/var/task/XAI__Backend/node_modules/streamroller/lib/RollingFileWriteStream.js:277:18)
+    at mkdir (/var/task/XAI__Backend/node_modules/streamroller/lib/RollingFileWriteStream.js:277:18)
+    at mkdir (/var/task/XAI__Backend/node_modules/streamroller/lib/RollingFileWriteStream.js:277:18)
+    at mkdir (/var/task/XAI__Backend/node_modules/streamroller/lib/RollingFileWriteStream.js:277:18)
+    at mkdir (/var/task/XAI__Backend/node_modules/streamroller/lib/RollingFileWriteStream.js:277:18)
+    at mkdir (/var/task/XAI__Backend/node_modules/streamroller/lib/RollingFileWriteStream.js:277:18)
+    at mkdir (/var/task/XAI__Backend/node_modules/streamroller/lib/RollingFileWriteStream.js:277:18)
+No exports found in module ""/var/task/XAI__Backend/index.js"".
+Did you forget to export a function or a server?
+Node.js process exited with exit status: 128. The logs above can help with debugging the issue.","prj_Q8w42Wol80dgGPVIRSqZNOMFQ0Rl","","","01K1MCNF5MZ1R516XZCNBVRY4S","",-1
+"2025-08-02 03:19:48",1754104788367,"trading-bot-ocvv-96kxikme8-dairus-projects-b0d274d8.vercel.app/","GET","",-1,"tzzvb-1754104773618-51fd70ab4296","vercel-screenshot/1.0","error","production","main","MISS","lambda","/index.js","trading-bot-ocvv-96kxikme8-dairus-projects-b0d274d8.vercel.app","trading-bot-ocvv-96kxikme8-dairus-projects-b0d274d8.vercel.app","dpl_Ev6LVErBhuYGc35B5y7VUVqK9Nkr",-1,"iad1",-1,-1,"solana web3 https://mainnet.helius-rpc.com/?api-key=71f6e059-edd5-4255-a164-c8739a429f45
+Get Next Rpcssss https://mainnet.helius-rpc.com/?api-key=71f6e059-edd5-4255-a164-c8739a429f45
+numberofWorekr 1 number
+Unhandled Rejection: RangeError: Maximum call stack size exceeded
+    at Object.mkdirSync (node:fs:1349:19)
+    at mkdir (/var/task/XAI__Backend/node_modules/streamroller/lib/RollingFileWriteStream.js:270:19)
+    at mkdir (/var/task/XAI__Backend/node_modules/streamroller/lib/RollingFileWriteStream.js:276:11)
+    at mkdir (/var/task/XAI__Backend/node_modules/streamroller/lib/RollingFileWriteStream.js:277:18)
+    at mkdir (/var/task/XAI__Backend/node_modules/streamroller/lib/RollingFileWriteStream.js:277:18)
+    at mkdir (/var/task/XAI__Backend/node_modules/streamroller/lib/RollingFileWriteStream.js:277:18)
+    at mkdir (/var/task/XAI__Backend/node_modules/streamroller/lib/RollingFileWriteStream.js:277:18)
+    at mkdir (/var/task/XAI__Backend/node_modules/streamroller/lib/RollingFileWriteStream.js:277:18)
+    at mkdir (/var/task/XAI__Backend/node_modules/streamroller/lib/RollingFileWriteStream.js:277:18)
+    at mkdir (/var/task/XAI__Backend/node_modules/streamroller/lib/RollingFileWriteStream.js:277:18)
+No exports found in module ""/var/task/XAI__Backend/index.js"".
+Did you forget to export a function or a server?
+Node.js process exited with exit status: 128. The logs above can help with debugging the issue.
+solana web3 https://mainnet.helius-rpc.com/?api-key=71f6e059-edd5-4255-a164-c8739a429f45
+Get Next Rpcssss https://mainnet.helius-rpc.com/?api-key=71f6e059-edd5-4255-a164-c8739a429f45
+numberofWorekr 1 number
+Unhandled Rejection: RangeError: Maximum call stack size exceeded
+    at Object.mkdirSync (node:fs:1349:19)
+    at mkdir (/var/task/XAI__Backend/node_modules/streamroller/lib/RollingFileWriteStream.js:270:19)
+    at mkdir (/var/task/XAI__Backend/node_modules/streamroller/lib/RollingFileWriteStream.js:276:11)
+    at mkdir (/var/task/XAI__Backend/node_modules/streamroller/lib/RollingFileWriteStream.js:277:18)
+    at mkdir (/var/task/XAI__Backend/node_modules/streamroller/lib/RollingFileWriteStream.js:277:18)
+    at mkdir (/var/task/XAI__Backend/node_modules/streamroller/lib/RollingFileWriteStream.js:277:18)
+    at mkdir (/var/task/XAI__Backend/node_modules/streamroller/lib/RollingFileWriteStream.js:277:18)
+    at mkdir (/var/task/XAI__Backend/node_modules/streamroller/lib/RollingFileWriteStream.js:277:18)
+    at mkdir (/var/task/XAI__Backend/node_modules/streamroller/lib/RollingFileWriteStream.js:277:18)
+    at mkdir (/var/task/XAI__Backend/node_modules/streamroller/lib/RollingFileWriteStream.js:277:18)
+No exports found in module ""/var/task/XAI__Backend/index.js"".
+Did you forget to export a function or a server?
+Node.js process exited with exit status: 128. The logs above can help with debugging the issue.","prj_Q8w42Wol80dgGPVIRSqZNOMFQ0Rl","","","01K1MCNF5MZ1R516XZCMM944GR","",-1
+"2025-08-02 03:19:37",1754104777788,"trading-bot-ocvv-96kxikme8-dairus-projects-b0d274d8.vercel.app/","GET","",500,"4r6lj-1754104777750-86a5b7c39dd0","vercel-screenshot/1.0","error","production","main","MISS","lambda","/index.js","trading-bot-ocvv-96kxikme8-dairus-projects-b0d274d8.vercel.app","trading-bot-ocvv-96kxikme8-dairus-projects-b0d274d8.vercel.app","dpl_Ev6LVErBhuYGc35B5y7VUVqK9Nkr",7366,"iad1",227,2048,"","prj_Q8w42Wol80dgGPVIRSqZNOMFQ0Rl","","","01K1MCNK1WH60PG2SB4VGPTHYJ","",1
+"2025-08-02 03:19:37",1754104777743,"trading-bot-ocvv-96kxikme8-dairus-projects-b0d274d8.vercel.app/","GET","",500,"29zz8-1754104777621-6f4c908a5202","vercel-screenshot/1.0","error","production","main","MISS","lambda","/index.js","trading-bot-ocvv-96kxikme8-dairus-projects-b0d274d8.vercel.app","trading-bot-ocvv-96kxikme8-dairus-projects-b0d274d8.vercel.app","dpl_Ev6LVErBhuYGc35B5y7VUVqK9Nkr",7250,"iad1",224,2048,"","prj_Q8w42Wol80dgGPVIRSqZNOMFQ0Rl","","","01K1MCNK0F126TKDZC70WFHNPS","",1
+"2025-08-02 03:19:33",1754104773812,"trading-bot-ocvv-96kxikme8-dairus-projects-b0d274d8.vercel.app/","GET","",500,"46sdw-1754104773541-723314aae58b","vercel-screenshot/1.0","error","production","main","MISS","lambda","/index.js","trading-bot-ocvv-96kxikme8-dairus-projects-b0d274d8.vercel.app","trading-bot-ocvv-96kxikme8-dairus-projects-b0d274d8.vercel.app","dpl_Ev6LVErBhuYGc35B5y7VUVqK9Nkr",7285,"iad1",232,2048,"","prj_Q8w42Wol80dgGPVIRSqZNOMFQ0Rl","","","01K1MCNF5MZ1R516XZCNBVRY4S","",1
+"2025-08-02 03:19:33",1754104773812,"trading-bot-ocvv-96kxikme8-dairus-projects-b0d274d8.vercel.app/","GET","",500,"tzzvb-1754104773618-51fd70ab4296","vercel-screenshot/1.0","error","production","main","MISS","lambda","/index.js","trading-bot-ocvv-96kxikme8-dairus-projects-b0d274d8.vercel.app","trading-bot-ocvv-96kxikme8-dairus-projects-b0d274d8.vercel.app","dpl_Ev6LVErBhuYGc35B5y7VUVqK9Nkr",7020,"iad1",223,2048,"","prj_Q8w42Wol80dgGPVIRSqZNOMFQ0Rl","","","01K1MCNF5MZ1R516XZCMM944GR","",1
+"2025-08-02 03:18:07",1754104687050,"trading-bot-ocvv.vercel.app/favicon.ico","GET","",-1,"67dg7-1754104685181-0f4e6c05ebbc","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36","error","production","main","MISS","lambda","/index.js","trading-bot-ocvv.vercel.app","trading-bot-ocvv.vercel.app","dpl_BXzdhBGTKkpRByZi3dnRo6X5HzVR",-1,"iad1",-1,-1,"solana web3 https://mainnet.helius-rpc.com/?api-key=71f6e059-edd5-4255-a164-c8739a429f45
+Get Next Rpcssss https://mainnet.helius-rpc.com/?api-key=71f6e059-edd5-4255-a164-c8739a429f45
+Cannot find module '@bull-board/ui/package.json'
+Require stack:
+- /var/task/XAI__Backend/node_modules/@bull-board/api/dist/src/index.js
+- /var/task/XAI__Backend/job/utils/queue.helper.js
+- /var/task/XAI__Backend/job/process_manager.js
+- /var/task/XAI__Backend/job/process_worker.js
+- /var/task/XAI__Backend/app/app.js
+- /var/task/XAI__Backend/index.js
+- /opt/rust/nodejs.js
+Did you forget to add it to ""dependencies"" in `package.json`?
+Node.js process exited with exit status: 1. The logs above can help with debugging the issue.","prj_Q8w42Wol80dgGPVIRSqZNOMFQ0Rl","","","01K1MCJRP4B6EWQS62WCF69CM2","",-1
+"2025-08-02 03:18:05",1754104685252,"trading-bot-ocvv.vercel.app/favicon.ico","GET","",500,"67dg7-1754104685181-0f4e6c05ebbc","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36","error","production","main","MISS","lambda","/index.js","trading-bot-ocvv.vercel.app","trading-bot-ocvv.vercel.app","dpl_BXzdhBGTKkpRByZi3dnRo6X5HzVR",1781,"iad1",185,2048,"","prj_Q8w42Wol80dgGPVIRSqZNOMFQ0Rl","","","01K1MCJRP4B6EWQS62WCF69CM2","",1
+"2025-08-02 03:18:03",1754104683673,"trading-bot-ocvv.vercel.app/","GET","",-1,"2lwqr-1754104681779-0b3df158b4a4","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36","error","production","main","MISS","lambda","/index.js","trading-bot-ocvv.vercel.app","trading-bot-ocvv.vercel.app","dpl_BXzdhBGTKkpRByZi3dnRo6X5HzVR",-1,"iad1",-1,-1,"solana web3 https://mainnet.helius-rpc.com/?api-key=71f6e059-edd5-4255-a164-c8739a429f45
+Get Next Rpcssss https://mainnet.helius-rpc.com/?api-key=71f6e059-edd5-4255-a164-c8739a429f45
+Cannot find module '@bull-board/ui/package.json'
+Require stack:
+- /var/task/XAI__Backend/node_modules/@bull-board/api/dist/src/index.js
+- /var/task/XAI__Backend/job/utils/queue.helper.js
+- /var/task/XAI__Backend/job/process_manager.js
+- /var/task/XAI__Backend/job/process_worker.js
+- /var/task/XAI__Backend/app/app.js
+- /var/task/XAI__Backend/index.js
+- /opt/rust/nodejs.js
+Did you forget to add it to ""dependencies"" in `package.json`?
+Node.js process exited with exit status: 1. The logs above can help with debugging the issue.","prj_Q8w42Wol80dgGPVIRSqZNOMFQ0Rl","","","01K1MCJNBFWWJEEYDE0W7SW4TK","",-1
+"2025-08-02 03:18:01",1754104681839,"trading-bot-ocvv.vercel.app/","GET","",500,"2lwqr-1754104681779-0b3df158b4a4","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36","error","production","main","MISS","lambda","/index.js","trading-bot-ocvv.vercel.app","trading-bot-ocvv.vercel.app","dpl_BXzdhBGTKkpRByZi3dnRo6X5HzVR",1806,"iad1",187,2048,"","prj_Q8w42Wol80dgGPVIRSqZNOMFQ0Rl","","","01K1MCJNBFWWJEEYDE0W7SW4TK","",1
+"2025-08-02 03:09:10",1754104150987,"trading-bot-ocvv-i9iqq6x8j-dairus-projects-b0d274d8.vercel.app/favicon.ico","GET","",-1,"nzmn7-1754104148793-e6d0e8506ab4","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36","error","production","main","MISS","lambda","/index.js","trading-bot-ocvv-i9iqq6x8j-dairus-projects-b0d274d8.vercel.app","trading-bot-ocvv-i9iqq6x8j-dairus-projects-b0d274d8.vercel.app","dpl_CscJidfqSTWPAwQ5r3AMBG83dz7u",-1,"iad1",-1,-1,"solana web3 https://mainnet.helius-rpc.com/?api-key=71f6e059-edd5-4255-a164-c8739a429f45
+Get Next Rpcssss https://mainnet.helius-rpc.com/?api-key=71f6e059-edd5-4255-a164-c8739a429f45
+Cannot find module '@bull-board/ui/package.json'
+Require stack:
+- /var/task/XAI__Backend/node_modules/@bull-board/api/dist/src/index.js
+- /var/task/XAI__Backend/job/utils/queue.helper.js
+- /var/task/XAI__Backend/job/process_manager.js
+- /var/task/XAI__Backend/job/process_worker.js
+- /var/task/XAI__Backend/app/app.js
+- /var/task/XAI__Backend/index.js
+- /opt/rust/nodejs.js
+Did you forget to add it to ""dependencies"" in `package.json`?
+Node.js process exited with exit status: 1. The logs above can help with debugging the issue.","prj_Q8w42Wol80dgGPVIRSqZNOMFQ0Rl","","","01K1MC2CZH6HW0GVXBACGGV8MM","",-1
+"2025-08-02 03:09:08",1754104148977,"trading-bot-ocvv-i9iqq6x8j-dairus-projects-b0d274d8.vercel.app/favicon.ico","GET","",500,"nzmn7-1754104148793-e6d0e8506ab4","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36","error","production","main","MISS","lambda","/index.js","trading-bot-ocvv-i9iqq6x8j-dairus-projects-b0d274d8.vercel.app","trading-bot-ocvv-i9iqq6x8j-dairus-projects-b0d274d8.vercel.app","dpl_CscJidfqSTWPAwQ5r3AMBG83dz7u",1987,"iad1",191,2048,"","prj_Q8w42Wol80dgGPVIRSqZNOMFQ0Rl","","","01K1MC2CZH6HW0GVXBACGGV8MM","",1
+"2025-08-02 03:09:08",1754104148239,"trading-bot-ocvv-i9iqq6x8j-dairus-projects-b0d274d8.vercel.app/","GET","",-1,"qzt8r-1754104146073-1a5584e4a2c6","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36","error","production","main","MISS","lambda","/index.js","trading-bot-ocvv-i9iqq6x8j-dairus-projects-b0d274d8.vercel.app","trading-bot-ocvv-i9iqq6x8j-dairus-projects-b0d274d8.vercel.app","dpl_CscJidfqSTWPAwQ5r3AMBG83dz7u",-1,"iad1",-1,-1,"solana web3 https://mainnet.helius-rpc.com/?api-key=71f6e059-edd5-4255-a164-c8739a429f45
+Get Next Rpcssss https://mainnet.helius-rpc.com/?api-key=71f6e059-edd5-4255-a164-c8739a429f45
+Cannot find module '@bull-board/ui/package.json'
+Require stack:
+- /var/task/XAI__Backend/node_modules/@bull-board/api/dist/src/index.js
+- /var/task/XAI__Backend/job/utils/queue.helper.js
+- /var/task/XAI__Backend/job/process_manager.js
+- /var/task/XAI__Backend/job/process_worker.js
+- /var/task/XAI__Backend/app/app.js
+- /var/task/XAI__Backend/index.js
+- /opt/rust/nodejs.js
+Did you forget to add it to ""dependencies"" in `package.json`?
+Node.js process exited with exit status: 1. The logs above can help with debugging the issue.","prj_Q8w42Wol80dgGPVIRSqZNOMFQ0Rl","","","01K1MC2A6KQTQ4ZM6Q9KKHKWG8","",-1
+"2025-08-02 03:09:06",1754104146130,"trading-bot-ocvv-i9iqq6x8j-dairus-projects-b0d274d8.vercel.app/","GET","",500,"qzt8r-1754104146073-1a5584e4a2c6","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36","error","production","main","MISS","lambda","/index.js","trading-bot-ocvv-i9iqq6x8j-dairus-projects-b0d274d8.vercel.app","trading-bot-ocvv-i9iqq6x8j-dairus-projects-b0d274d8.vercel.app","dpl_CscJidfqSTWPAwQ5r3AMBG83dz7u",2084,"iad1",187,2048,"","prj_Q8w42Wol80dgGPVIRSqZNOMFQ0Rl","","","01K1MC2A6KQTQ4ZM6Q9KKHKWG8","",1
+"2025-08-02 03:09:01",1754104141233,"trading-bot-ocvv-ijkejyay8-dairus-projects-b0d274d8.vercel.app/favicon.png","GET","",-1,"7wztw-1754104139448-5a1e9e77757e","vercel-favicon/1.0","error","production","main","MISS","lambda","/index.js","trading-bot-ocvv-ijkejyay8-dairus-projects-b0d274d8.vercel.app","trading-bot-ocvv-ijkejyay8-dairus-projects-b0d274d8.vercel.app","dpl_BXzdhBGTKkpRByZi3dnRo6X5HzVR",-1,"iad1",-1,-1,"solana web3 https://mainnet.helius-rpc.com/?api-key=71f6e059-edd5-4255-a164-c8739a429f45
+Get Next Rpcssss https://mainnet.helius-rpc.com/?api-key=71f6e059-edd5-4255-a164-c8739a429f45
+Cannot find module '@bull-board/ui/package.json'
+Require stack:
+- /var/task/XAI__Backend/node_modules/@bull-board/api/dist/src/index.js
+- /var/task/XAI__Backend/job/utils/queue.helper.js
+- /var/task/XAI__Backend/job/process_manager.js
+- /var/task/XAI__Backend/job/process_worker.js
+- /var/task/XAI__Backend/app/app.js
+- /var/task/XAI__Backend/index.js
+- /opt/rust/nodejs.js
+Did you forget to add it to ""dependencies"" in `package.json`?
+Node.js process exited with exit status: 1. The logs above can help with debugging the issue.","prj_Q8w42Wol80dgGPVIRSqZNOMFQ0Rl","","","01K1MC23Q1W2QFGQJX1Q0CVMA2","",-1
+"2025-08-02 03:08:59",1754104139489,"trading-bot-ocvv-ijkejyay8-dairus-projects-b0d274d8.vercel.app/favicon.png","GET","",500,"7wztw-1754104139448-5a1e9e77757e","vercel-favicon/1.0","error","production","main","MISS","lambda","/index.js","trading-bot-ocvv-ijkejyay8-dairus-projects-b0d274d8.vercel.app","trading-bot-ocvv-ijkejyay8-dairus-projects-b0d274d8.vercel.app","dpl_BXzdhBGTKkpRByZi3dnRo6X5HzVR",1725,"iad1",191,2048,"","prj_Q8w42Wol80dgGPVIRSqZNOMFQ0Rl","","","01K1MC23Q1W2QFGQJX1Q0CVMA2","",1
+"2025-08-02 03:08:57",1754104137374,"trading-bot-ocvv-ijkejyay8-dairus-projects-b0d274d8.vercel.app/favicon.png","GET","",-1,"8fb5f-1754104135602-60e4e9cef0a3","vercel-favicon/1.0","error","production","main","MISS","lambda","/index.js","trading-bot-ocvv-ijkejyay8-dairus-projects-b0d274d8.vercel.app","trading-bot-ocvv-ijkejyay8-dairus-projects-b0d274d8.vercel.app","dpl_BXzdhBGTKkpRByZi3dnRo6X5HzVR",-1,"iad1",-1,-1,"solana web3 https://mainnet.helius-rpc.com/?api-key=71f6e059-edd5-4255-a164-c8739a429f45
+Get Next Rpcssss https://mainnet.helius-rpc.com/?api-key=71f6e059-edd5-4255-a164-c8739a429f45
+Cannot find module '@bull-board/ui/package.json'
+Require stack:
+- /var/task/XAI__Backend/node_modules/@bull-board/api/dist/src/index.js
+- /var/task/XAI__Backend/job/utils/queue.helper.js
+- /var/task/XAI__Backend/job/process_manager.js
+- /var/task/XAI__Backend/job/process_worker.js
+- /var/task/XAI__Backend/app/app.js
+- /var/task/XAI__Backend/index.js
+- /opt/rust/nodejs.js
+Did you forget to add it to ""dependencies"" in `package.json`?
+Node.js process exited with exit status: 1. The logs above can help with debugging the issue.","prj_Q8w42Wol80dgGPVIRSqZNOMFQ0Rl","","","01K1MC1ZYWHCQE3GJDB5G9EDF2","",-1
+"2025-08-02 03:08:55",1754104135644,"trading-bot-ocvv-ijkejyay8-dairus-projects-b0d274d8.vercel.app/favicon.png","GET","",500,"8fb5f-1754104135602-60e4e9cef0a3","vercel-favicon/1.0","error","production","main","MISS","lambda","/index.js","trading-bot-ocvv-ijkejyay8-dairus-projects-b0d274d8.vercel.app","trading-bot-ocvv-ijkejyay8-dairus-projects-b0d274d8.vercel.app","dpl_BXzdhBGTKkpRByZi3dnRo6X5HzVR",1711,"iad1",191,2048,"","prj_Q8w42Wol80dgGPVIRSqZNOMFQ0Rl","","","01K1MC1ZYWHCQE3GJDB5G9EDF2","",1
+"2025-08-02 03:08:54",1754104134486,"trading-bot-ocvv-ijkejyay8-dairus-projects-b0d274d8.vercel.app/favicon.png","GET","",-1,"s2dbm-1754104132755-2217251f6e0f","vercel-favicon/1.0","error","production","main","MISS","lambda","/index.js","trading-bot-ocvv-ijkejyay8-dairus-projects-b0d274d8.vercel.app","trading-bot-ocvv-ijkejyay8-dairus-projects-b0d274d8.vercel.app","dpl_BXzdhBGTKkpRByZi3dnRo6X5HzVR",-1,"iad1",-1,-1,"solana web3 https://mainnet.helius-rpc.com/?api-key=71f6e059-edd5-4255-a164-c8739a429f45
+Get Next Rpcssss https://mainnet.helius-rpc.com/?api-key=71f6e059-edd5-4255-a164-c8739a429f45
+Cannot find module '@bull-board/ui/package.json'
+Require stack:
+- /var/task/XAI__Backend/node_modules/@bull-board/api/dist/src/index.js
+- /var/task/XAI__Backend/job/utils/queue.helper.js
+- /var/task/XAI__Backend/job/process_manager.js
+- /var/task/XAI__Backend/job/process_worker.js
+- /var/task/XAI__Backend/app/app.js
+- /var/task/XAI__Backend/index.js
+- /opt/rust/nodejs.js
+Did you forget to add it to ""dependencies"" in `package.json`?
+Node.js process exited with exit status: 1. The logs above can help with debugging the issue.","prj_Q8w42Wol80dgGPVIRSqZNOMFQ0Rl","","","01K1MC1X60K7ZPT6W3M12E9SYT","",-1
+"2025-08-02 03:08:53",1754104133173,"trading-bot-ocvv-git-main-dairus-projects-b0d274d8.vercel.app/favicon.ico","GET","",-1,"jrczk-1754104131268-38ab5d768a04","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36","error","production","main","MISS","lambda","/index.js","trading-bot-ocvv-git-main-dairus-projects-b0d274d8.vercel.app","trading-bot-ocvv-git-main-dairus-projects-b0d274d8.vercel.app","dpl_BXzdhBGTKkpRByZi3dnRo6X5HzVR",-1,"iad1",-1,-1,"solana web3 https://mainnet.helius-rpc.com/?api-key=71f6e059-edd5-4255-a164-c8739a429f45
+Get Next Rpcssss https://mainnet.helius-rpc.com/?api-key=71f6e059-edd5-4255-a164-c8739a429f45
+Cannot find module '@bull-board/ui/package.json'
+Require stack:
+- /var/task/XAI__Backend/node_modules/@bull-board/api/dist/src/index.js
+- /var/task/XAI__Backend/job/utils/queue.helper.js
+- /var/task/XAI__Backend/job/process_manager.js
+- /var/task/XAI__Backend/job/process_worker.js
+- /var/task/XAI__Backend/app/app.js
+- /var/task/XAI__Backend/index.js
+- /opt/rust/nodejs.js
+Did you forget to add it to ""dependencies"" in `package.json`?
+Node.js process exited with exit status: 1. The logs above can help with debugging the issue.","prj_Q8w42Wol80dgGPVIRSqZNOMFQ0Rl","","","01K1MC1VVXSBKP0GGBYF62YQX9","",-1
+"2025-08-02 03:08:52",1754104132800,"trading-bot-ocvv-ijkejyay8-dairus-projects-b0d274d8.vercel.app/favicon.png","GET","",500,"s2dbm-1754104132755-2217251f6e0f","vercel-favicon/1.0","error","production","main","MISS","lambda","/index.js","trading-bot-ocvv-ijkejyay8-dairus-projects-b0d274d8.vercel.app","trading-bot-ocvv-ijkejyay8-dairus-projects-b0d274d8.vercel.app","dpl_BXzdhBGTKkpRByZi3dnRo6X5HzVR",1669,"iad1",190,2048,"","prj_Q8w42Wol80dgGPVIRSqZNOMFQ0Rl","","","01K1MC1X60K7ZPT6W3M12E9SYT","",1
+"2025-08-02 03:08:52",1754104132714,"trading-bot-ocvv-ijkejyay8-dairus-projects-b0d274d8.vercel.app/favicon.ico","GET","",-1,"s2t8f-1754104130687-542e86c12fa3","vercel-favicon/1.0","error","production","main","MISS","lambda","/index.js","trading-bot-ocvv-ijkejyay8-dairus-projects-b0d274d8.vercel.app","trading-bot-ocvv-ijkejyay8-dairus-projects-b0d274d8.vercel.app","dpl_BXzdhBGTKkpRByZi3dnRo6X5HzVR",-1,"iad1",-1,-1,"solana web3 https://mainnet.helius-rpc.com/?api-key=71f6e059-edd5-4255-a164-c8739a429f45
+Get Next Rpcssss https://mainnet.helius-rpc.com/?api-key=71f6e059-edd5-4255-a164-c8739a429f45
+Cannot find module '@bull-board/ui/package.json'
+Require stack:
+- /var/task/XAI__Backend/node_modules/@bull-board/api/dist/src/index.js
+- /var/task/XAI__Backend/job/utils/queue.helper.js
+- /var/task/XAI__Backend/job/process_manager.js
+- /var/task/XAI__Backend/job/process_worker.js
+- /var/task/XAI__Backend/app/app.js
+- /var/task/XAI__Backend/index.js
+- /opt/rust/nodejs.js
+Did you forget to add it to ""dependencies"" in `package.json`?
+Node.js process exited with exit status: 1. The logs above can help with debugging the issue.","prj_Q8w42Wol80dgGPVIRSqZNOMFQ0Rl","","","01K1MC1VEHMCWZV9VEDE54DZ4S","",-1
+"2025-08-02 03:08:51",1754104131453,"trading-bot-ocvv-git-main-dairus-projects-b0d274d8.vercel.app/favicon.ico","GET","",500,"jrczk-1754104131268-38ab5d768a04","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36","error","production","main","MISS","lambda","/index.js","trading-bot-ocvv-git-main-dairus-projects-b0d274d8.vercel.app","trading-bot-ocvv-git-main-dairus-projects-b0d274d8.vercel.app","dpl_BXzdhBGTKkpRByZi3dnRo6X5HzVR",1693,"iad1",191,2048,"","prj_Q8w42Wol80dgGPVIRSqZNOMFQ0Rl","","","01K1MC1VVXSBKP0GGBYF62YQX9","",1
+"2025-08-02 03:08:51",1754104131025,"trading-bot-ocvv-ijkejyay8-dairus-projects-b0d274d8.vercel.app/favicon.ico","GET","",500,"s2t8f-1754104130687-542e86c12fa3","vercel-favicon/1.0","error","production","main","MISS","lambda","/index.js","trading-bot-ocvv-ijkejyay8-dairus-projects-b0d274d8.vercel.app","trading-bot-ocvv-ijkejyay8-dairus-projects-b0d274d8.vercel.app","dpl_BXzdhBGTKkpRByZi3dnRo6X5HzVR",1671,"iad1",191,2048,"","prj_Q8w42Wol80dgGPVIRSqZNOMFQ0Rl","","","01K1MC1VEHMCWZV9VEDE54DZ4S","",1
+"2025-08-02 03:08:50",1754104130712,"trading-bot-ocvv-git-main-dairus-projects-b0d274d8.vercel.app/","GET","",-1,"s7c5j-1754104128697-80ba2b2d2071","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36","error","production","main","MISS","lambda","/index.js","trading-bot-ocvv-git-main-dairus-projects-b0d274d8.vercel.app","trading-bot-ocvv-git-main-dairus-projects-b0d274d8.vercel.app","dpl_BXzdhBGTKkpRByZi3dnRo6X5HzVR",-1,"iad1",-1,-1,"solana web3 https://mainnet.helius-rpc.com/?api-key=71f6e059-edd5-4255-a164-c8739a429f45
+Get Next Rpcssss https://mainnet.helius-rpc.com/?api-key=71f6e059-edd5-4255-a164-c8739a429f45
+Cannot find module '@bull-board/ui/package.json'
+Require stack:
+- /var/task/XAI__Backend/node_modules/@bull-board/api/dist/src/index.js
+- /var/task/XAI__Backend/job/utils/queue.helper.js
+- /var/task/XAI__Backend/job/process_manager.js
+- /var/task/XAI__Backend/job/process_worker.js
+- /var/task/XAI__Backend/app/app.js
+- /var/task/XAI__Backend/index.js
+- /opt/rust/nodejs.js
+Did you forget to add it to ""dependencies"" in `package.json`?
+Node.js process exited with exit status: 1. The logs above can help with debugging the issue.","prj_Q8w42Wol80dgGPVIRSqZNOMFQ0Rl","","","01K1MC1SFE6YKTCDXWR4TAAHN7","",-1
+"2025-08-02 03:08:49",1754104129006,"trading-bot-ocvv-git-main-dairus-projects-b0d274d8.vercel.app/","GET","",500,"s7c5j-1754104128697-80ba2b2d2071","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36","error","production","main","MISS","lambda","/index.js","trading-bot-ocvv-git-main-dairus-projects-b0d274d8.vercel.app","trading-bot-ocvv-git-main-dairus-projects-b0d274d8.vercel.app","dpl_BXzdhBGTKkpRByZi3dnRo6X5HzVR",1688,"iad1",190,2048,"","prj_Q8w42Wol80dgGPVIRSqZNOMFQ0Rl","","","01K1MC1SFE6YKTCDXWR4TAAHN7","",1
+"2025-08-02 03:08:48",1754104128474,"trading-bot-ocvv-ijkejyay8-dairus-projects-b0d274d8.vercel.app/favicon.ico","GET","",-1,"qdpz8-1754104126705-981442e91c9b","vercel-favicon/1.0","error","production","main","MISS","lambda","/index.js","trading-bot-ocvv-ijkejyay8-dairus-projects-b0d274d8.vercel.app","trading-bot-ocvv-ijkejyay8-dairus-projects-b0d274d8.vercel.app","dpl_BXzdhBGTKkpRByZi3dnRo6X5HzVR",-1,"iad1",-1,-1,"solana web3 https://mainnet.helius-rpc.com/?api-key=71f6e059-edd5-4255-a164-c8739a429f45
+Get Next Rpcssss https://mainnet.helius-rpc.com/?api-key=71f6e059-edd5-4255-a164-c8739a429f45
+Cannot find module '@bull-board/ui/package.json'
+Require stack:
+- /var/task/XAI__Backend/node_modules/@bull-board/api/dist/src/index.js
+- /var/task/XAI__Backend/job/utils/queue.helper.js
+- /var/task/XAI__Backend/job/process_manager.js
+- /var/task/XAI__Backend/job/process_worker.js
+- /var/task/XAI__Backend/app/app.js
+- /var/task/XAI__Backend/index.js
+- /opt/rust/nodejs.js
+Did you forget to add it to ""dependencies"" in `package.json`?
+Node.js process exited with exit status: 1. The logs above can help with debugging the issue.","prj_Q8w42Wol80dgGPVIRSqZNOMFQ0Rl","","","01K1MC1Q8YKSR0VE20GK7M7SRR","",-1
+"2025-08-02 03:08:46",1754104126750,"trading-bot-ocvv-ijkejyay8-dairus-projects-b0d274d8.vercel.app/favicon.ico","GET","",500,"qdpz8-1754104126705-981442e91c9b","vercel-favicon/1.0","error","production","main","MISS","lambda","/index.js","trading-bot-ocvv-ijkejyay8-dairus-projects-b0d274d8.vercel.app","trading-bot-ocvv-ijkejyay8-dairus-projects-b0d274d8.vercel.app","dpl_BXzdhBGTKkpRByZi3dnRo6X5HzVR",1703,"iad1",187,2048,"","prj_Q8w42Wol80dgGPVIRSqZNOMFQ0Rl","","","01K1MC1Q8YKSR0VE20GK7M7SRR","",1
+"2025-08-02 03:08:45",1754104125636,"trading-bot-ocvv-ijkejyay8-dairus-projects-b0d274d8.vercel.app/favicon.ico","GET","",-1,"29zz8-1754104123900-c14040ed5278","vercel-favicon/1.0","error","production","main","MISS","lambda","/index.js","trading-bot-ocvv-ijkejyay8-dairus-projects-b0d274d8.vercel.app","trading-bot-ocvv-ijkejyay8-dairus-projects-b0d274d8.vercel.app","dpl_BXzdhBGTKkpRByZi3dnRo6X5HzVR",-1,"iad1",-1,-1,"solana web3 https://mainnet.helius-rpc.com/?api-key=71f6e059-edd5-4255-a164-c8739a429f45
+Get Next Rpcssss https://mainnet.helius-rpc.com/?api-key=71f6e059-edd5-4255-a164-c8739a429f45
+Cannot find module '@bull-board/ui/package.json'
+Require stack:
+- /var/task/XAI__Backend/node_modules/@bull-board/api/dist/src/index.js
+- /var/task/XAI__Backend/job/utils/queue.helper.js
+- /var/task/XAI__Backend/job/process_manager.js
+- /var/task/XAI__Backend/job/process_worker.js
+- /var/task/XAI__Backend/app/app.js
+- /var/task/XAI__Backend/index.js
+- /opt/rust/nodejs.js
+Did you forget to add it to ""dependencies"" in `package.json`?
+Node.js process exited with exit status: 1. The logs above can help with debugging the issue.","prj_Q8w42Wol80dgGPVIRSqZNOMFQ0Rl","","","01K1MC1MH3Y2ATECGSK3RS9YXD","",-1
+"2025-08-02 03:08:43",1754104123939,"trading-bot-ocvv-ijkejyay8-dairus-projects-b0d274d8.vercel.app/favicon.ico","GET","",500,"29zz8-1754104123900-c14040ed5278","vercel-favicon/1.0","error","production","main","MISS","lambda","/index.js","trading-bot-ocvv-ijkejyay8-dairus-projects-b0d274d8.vercel.app","trading-bot-ocvv-ijkejyay8-dairus-projects-b0d274d8.vercel.app","dpl_BXzdhBGTKkpRByZi3dnRo6X5HzVR",1683,"iad1",192,2048,"","prj_Q8w42Wol80dgGPVIRSqZNOMFQ0Rl","","","01K1MC1MH3Y2ATECGSK3RS9YXD","",1
+"2025-08-02 03:08:43",1754104123742,"trading-bot-ocvv-ijkejyay8-dairus-projects-b0d274d8.vercel.app/","GET","",-1,"qgbck-1754104121979-7cabad5dfc90","vercel-favicon/1.0","error","production","main","MISS","lambda","/index.js","trading-bot-ocvv-ijkejyay8-dairus-projects-b0d274d8.vercel.app","trading-bot-ocvv-ijkejyay8-dairus-projects-b0d274d8.vercel.app","dpl_BXzdhBGTKkpRByZi3dnRo6X5HzVR",-1,"iad1",-1,-1,"solana web3 https://mainnet.helius-rpc.com/?api-key=71f6e059-edd5-4255-a164-c8739a429f45
+Get Next Rpcssss https://mainnet.helius-rpc.com/?api-key=71f6e059-edd5-4255-a164-c8739a429f45
+Cannot find module '@bull-board/ui/package.json'
+Require stack:
+- /var/task/XAI__Backend/node_modules/@bull-board/api/dist/src/index.js
+- /var/task/XAI__Backend/job/utils/queue.helper.js
+- /var/task/XAI__Backend/job/process_manager.js
+- /var/task/XAI__Backend/job/process_worker.js
+- /var/task/XAI__Backend/app/app.js
+- /var/task/XAI__Backend/index.js
+- /opt/rust/nodejs.js
+Did you forget to add it to ""dependencies"" in `package.json`?
+Node.js process exited with exit status: 1. The logs above can help with debugging the issue.","prj_Q8w42Wol80dgGPVIRSqZNOMFQ0Rl","","","01K1MC1JN9KJE0ETA186CH2MNW","",-1
+"2025-08-02 03:08:42",1754104122024,"trading-bot-ocvv-ijkejyay8-dairus-projects-b0d274d8.vercel.app/","GET","",500,"qgbck-1754104121979-7cabad5dfc90","vercel-favicon/1.0","error","production","main","MISS","lambda","/index.js","trading-bot-ocvv-ijkejyay8-dairus-projects-b0d274d8.vercel.app","trading-bot-ocvv-ijkejyay8-dairus-projects-b0d274d8.vercel.app","dpl_BXzdhBGTKkpRByZi3dnRo6X5HzVR",1699,"iad1",191,2048,"","prj_Q8w42Wol80dgGPVIRSqZNOMFQ0Rl","","","01K1MC1JN9KJE0ETA186CH2MNW","",1
+"2025-08-02 03:08:40",1754104120884,"trading-bot-ocvv-ijkejyay8-dairus-projects-b0d274d8.vercel.app/","GET","",-1,"mj4fg-1754104119056-87682bb72b22","vercel-favicon/1.0","error","production","main","MISS","lambda","/index.js","trading-bot-ocvv-ijkejyay8-dairus-projects-b0d274d8.vercel.app","trading-bot-ocvv-ijkejyay8-dairus-projects-b0d274d8.vercel.app","dpl_BXzdhBGTKkpRByZi3dnRo6X5HzVR",-1,"iad1",-1,-1,"solana web3 https://mainnet.helius-rpc.com/?api-key=71f6e059-edd5-4255-a164-c8739a429f45
+Get Next Rpcssss https://mainnet.helius-rpc.com/?api-key=71f6e059-edd5-4255-a164-c8739a429f45
+Cannot find module '@bull-board/ui/package.json'
+Require stack:
+- /var/task/XAI__Backend/node_modules/@bull-board/api/dist/src/index.js
+- /var/task/XAI__Backend/job/utils/queue.helper.js
+- /var/task/XAI__Backend/job/process_manager.js
+- /var/task/XAI__Backend/job/process_worker.js
+- /var/task/XAI__Backend/app/app.js
+- /var/task/XAI__Backend/index.js
+- /opt/rust/nodejs.js
+Did you forget to add it to ""dependencies"" in `package.json`?
+Node.js process exited with exit status: 1. The logs above can help with debugging the issue.","prj_Q8w42Wol80dgGPVIRSqZNOMFQ0Rl","","","01K1MC1FWXA78H5GP2A95ZS5HG","",-1
+"2025-08-02 03:08:39",1754104119197,"trading-bot-ocvv-ijkejyay8-dairus-projects-b0d274d8.vercel.app/","GET","",500,"mj4fg-1754104119056-87682bb72b22","vercel-favicon/1.0","error","production","main","MISS","lambda","/index.js","trading-bot-ocvv-ijkejyay8-dairus-projects-b0d274d8.vercel.app","trading-bot-ocvv-ijkejyay8-dairus-projects-b0d274d8.vercel.app","dpl_BXzdhBGTKkpRByZi3dnRo6X5HzVR",1667,"iad1",191,2048,"","prj_Q8w42Wol80dgGPVIRSqZNOMFQ0Rl","","","01K1MC1FWXA78H5GP2A95ZS5HG","",1
+"2025-08-02 03:08:14",1754104094047,"trading-bot-ocvv-ijkejyay8-dairus-projects-b0d274d8.vercel.app/favicon.ico","GET","",-1,"5qd9v-1754104092220-8ee749244d0b","vercel-screenshot/1.0","error","production","main","MISS","lambda","/index.js","trading-bot-ocvv-ijkejyay8-dairus-projects-b0d274d8.vercel.app","trading-bot-ocvv-ijkejyay8-dairus-projects-b0d274d8.vercel.app","dpl_BXzdhBGTKkpRByZi3dnRo6X5HzVR",-1,"iad1",-1,-1,"solana web3 https://mainnet.helius-rpc.com/?api-key=71f6e059-edd5-4255-a164-c8739a429f45
+Get Next Rpcssss https://mainnet.helius-rpc.com/?api-key=71f6e059-edd5-4255-a164-c8739a429f45
+Cannot find module '@bull-board/ui/package.json'
+Require stack:
+- /var/task/XAI__Backend/node_modules/@bull-board/api/dist/src/index.js
+- /var/task/XAI__Backend/job/utils/queue.helper.js
+- /var/task/XAI__Backend/job/process_manager.js
+- /var/task/XAI__Backend/job/process_worker.js
+- /var/task/XAI__Backend/app/app.js
+- /var/task/XAI__Backend/index.js
+- /opt/rust/nodejs.js
+Did you forget to add it to ""dependencies"" in `package.json`?
+Node.js process exited with exit status: 1. The logs above can help with debugging the issue.","prj_Q8w42Wol80dgGPVIRSqZNOMFQ0Rl","","","01K1MC0NMKV1PANCHHBHQ9EX04","",-1
+"2025-08-02 03:08:14",1754104094011,"trading-bot-ocvv-ijkejyay8-dairus-projects-b0d274d8.vercel.app/favicon.ico","GET","",-1,"5dlpn-1754104092169-34165d07a5e3","vercel-screenshot/1.0","error","production","main","MISS","lambda","/index.js","trading-bot-ocvv-ijkejyay8-dairus-projects-b0d274d8.vercel.app","trading-bot-ocvv-ijkejyay8-dairus-projects-b0d274d8.vercel.app","dpl_BXzdhBGTKkpRByZi3dnRo6X5HzVR",-1,"iad1",-1,-1,"solana web3 https://mainnet.helius-rpc.com/?api-key=71f6e059-edd5-4255-a164-c8739a429f45
+Get Next Rpcssss https://mainnet.helius-rpc.com/?api-key=71f6e059-edd5-4255-a164-c8739a429f45
+Cannot find module '@bull-board/ui/package.json'
+Require stack:
+- /var/task/XAI__Backend/node_modules/@bull-board/api/dist/src/index.js
+- /var/task/XAI__Backend/job/utils/queue.helper.js
+- /var/task/XAI__Backend/job/process_manager.js
+- /var/task/XAI__Backend/job/process_worker.js
+- /var/task/XAI__Backend/app/app.js
+- /var/task/XAI__Backend/index.js
+- /opt/rust/nodejs.js
+Did you forget to add it to ""dependencies"" in `package.json`?
+Node.js process exited with exit status: 1. The logs above can help with debugging the issue.","prj_Q8w42Wol80dgGPVIRSqZNOMFQ0Rl","","","01K1MC0NMH1PJ843P25XTXK7VW","",-1
+"2025-08-02 03:08:12",1754104092307,"trading-bot-ocvv-ijkejyay8-dairus-projects-b0d274d8.vercel.app/favicon.ico","GET","",500,"5qd9v-1754104092220-8ee749244d0b","vercel-screenshot/1.0","error","production","main","MISS","lambda","/index.js","trading-bot-ocvv-ijkejyay8-dairus-projects-b0d274d8.vercel.app","trading-bot-ocvv-ijkejyay8-dairus-projects-b0d274d8.vercel.app","dpl_BXzdhBGTKkpRByZi3dnRo6X5HzVR",1719,"iad1",190,2048,"","prj_Q8w42Wol80dgGPVIRSqZNOMFQ0Rl","","","01K1MC0NMKV1PANCHHBHQ9EX04","",1
+"2025-08-02 03:08:12",1754104092305,"trading-bot-ocvv-ijkejyay8-dairus-projects-b0d274d8.vercel.app/favicon.ico","GET","",500,"5dlpn-1754104092169-34165d07a5e3","vercel-screenshot/1.0","error","production","main","MISS","lambda","/index.js","trading-bot-ocvv-ijkejyay8-dairus-projects-b0d274d8.vercel.app","trading-bot-ocvv-ijkejyay8-dairus-projects-b0d274d8.vercel.app","dpl_BXzdhBGTKkpRByZi3dnRo6X5HzVR",1682,"iad1",184,2048,"","prj_Q8w42Wol80dgGPVIRSqZNOMFQ0Rl","","","01K1MC0NMH1PJ843P25XTXK7VW","",1
+"2025-08-02 03:08:12",1754104092117,"trading-bot-ocvv-ijkejyay8-dairus-projects-b0d274d8.vercel.app/","GET","",-1,"47gb7-1754104090100-d82aa23f4e2f","vercel-screenshot/1.0","error","production","main","MISS","lambda","/index.js","trading-bot-ocvv-ijkejyay8-dairus-projects-b0d274d8.vercel.app","trading-bot-ocvv-ijkejyay8-dairus-projects-b0d274d8.vercel.app","dpl_BXzdhBGTKkpRByZi3dnRo6X5HzVR",-1,"iad1",-1,-1,"solana web3 https://mainnet.helius-rpc.com/?api-key=71f6e059-edd5-4255-a164-c8739a429f45
+Get Next Rpcssss https://mainnet.helius-rpc.com/?api-key=71f6e059-edd5-4255-a164-c8739a429f45
+Cannot find module '@bull-board/ui/package.json'
+Require stack:
+- /var/task/XAI__Backend/node_modules/@bull-board/api/dist/src/index.js
+- /var/task/XAI__Backend/job/utils/queue.helper.js
+- /var/task/XAI__Backend/job/process_manager.js
+- /var/task/XAI__Backend/job/process_worker.js
+- /var/task/XAI__Backend/app/app.js
+- /var/task/XAI__Backend/index.js
+- /opt/rust/nodejs.js
+Did you forget to add it to ""dependencies"" in `package.json`?
+Node.js process exited with exit status: 1. The logs above can help with debugging the issue.","prj_Q8w42Wol80dgGPVIRSqZNOMFQ0Rl","","","01K1MC0KQDTPTTWH55Q2RSQ8NH","",-1
+"2025-08-02 03:08:12",1754104092094,"trading-bot-ocvv-ijkejyay8-dairus-projects-b0d274d8.vercel.app/","GET","",-1,"crjgk-1754104090139-c47a52750a13","vercel-screenshot/1.0","error","production","main","MISS","lambda","/index.js","trading-bot-ocvv-ijkejyay8-dairus-projects-b0d274d8.vercel.app","trading-bot-ocvv-ijkejyay8-dairus-projects-b0d274d8.vercel.app","dpl_BXzdhBGTKkpRByZi3dnRo6X5HzVR",-1,"iad1",-1,-1,"solana web3 https://mainnet.helius-rpc.com/?api-key=71f6e059-edd5-4255-a164-c8739a429f45
+Get Next Rpcssss https://mainnet.helius-rpc.com/?api-key=71f6e059-edd5-4255-a164-c8739a429f45
+Cannot find module '@bull-board/ui/package.json'
+Require stack:
+- /var/task/XAI__Backend/node_modules/@bull-board/api/dist/src/index.js
+- /var/task/XAI__Backend/job/utils/queue.helper.js
+- /var/task/XAI__Backend/job/process_manager.js
+- /var/task/XAI__Backend/job/process_worker.js
+- /var/task/XAI__Backend/app/app.js
+- /var/task/XAI__Backend/index.js
+- /opt/rust/nodejs.js
+Did you forget to add it to ""dependencies"" in `package.json`?
+Node.js process exited with exit status: 1. The logs above can help with debugging the issue.","prj_Q8w42Wol80dgGPVIRSqZNOMFQ0Rl","","","01K1MC0KR9J45X9ZW1W3ARVJ07","",-1
+"2025-08-02 03:08:10",1754104090377,"trading-bot-ocvv-ijkejyay8-dairus-projects-b0d274d8.vercel.app/","GET","",500,"crjgk-1754104090139-c47a52750a13","vercel-screenshot/1.0","error","production","main","MISS","lambda","/index.js","trading-bot-ocvv-ijkejyay8-dairus-projects-b0d274d8.vercel.app","trading-bot-ocvv-ijkejyay8-dairus-projects-b0d274d8.vercel.app","dpl_BXzdhBGTKkpRByZi3dnRo6X5HzVR",1695,"iad1",191,2048,"","prj_Q8w42Wol80dgGPVIRSqZNOMFQ0Rl","","","01K1MC0KR9J45X9ZW1W3ARVJ07","",1
+"2025-08-02 03:08:10",1754104090349,"trading-bot-ocvv-ijkejyay8-dairus-projects-b0d274d8.vercel.app/","GET","",500,"47gb7-1754104090100-d82aa23f4e2f","vercel-screenshot/1.0","error","production","main","MISS","lambda","/index.js","trading-bot-ocvv-ijkejyay8-dairus-projects-b0d274d8.vercel.app","trading-bot-ocvv-ijkejyay8-dairus-projects-b0d274d8.vercel.app","dpl_BXzdhBGTKkpRByZi3dnRo6X5HzVR",1751,"iad1",191,2048,"","prj_Q8w42Wol80dgGPVIRSqZNOMFQ0Rl","","","01K1MC0KQDTPTTWH55Q2RSQ8NH","",1
+"2025-08-02 03:08:10",1754104090196,"trading-bot-ocvv-ijkejyay8-dairus-projects-b0d274d8.vercel.app/","GET","",-1,"n65mc-1754104086010-2f6773b58ea3","vercel-screenshot/1.0","error","production","main","MISS","lambda","/index.js","trading-bot-ocvv-ijkejyay8-dairus-projects-b0d274d8.vercel.app","trading-bot-ocvv-ijkejyay8-dairus-projects-b0d274d8.vercel.app","dpl_BXzdhBGTKkpRByZi3dnRo6X5HzVR",-1,"iad1",-1,-1,"solana web3 https://mainnet.helius-rpc.com/?api-key=71f6e059-edd5-4255-a164-c8739a429f45
+Get Next Rpcssss https://mainnet.helius-rpc.com/?api-key=71f6e059-edd5-4255-a164-c8739a429f45
+Cannot find module '@bull-board/ui/package.json'
+Require stack:
+- /var/task/XAI__Backend/node_modules/@bull-board/api/dist/src/index.js
+- /var/task/XAI__Backend/job/utils/queue.helper.js
+- /var/task/XAI__Backend/job/process_manager.js
+- /var/task/XAI__Backend/job/process_worker.js
+- /var/task/XAI__Backend/app/app.js
+- /var/task/XAI__Backend/index.js
+- /opt/rust/nodejs.js
+Did you forget to add it to ""dependencies"" in `package.json`?
+Node.js process exited with exit status: 1. The logs above can help with debugging the issue.
+solana web3 https://mainnet.helius-rpc.com/?api-key=71f6e059-edd5-4255-a164-c8739a429f45
+Get Next Rpcssss https://mainnet.helius-rpc.com/?api-key=71f6e059-edd5-4255-a164-c8739a429f45
+Cannot find module '@bull-board/ui/package.json'
+Require stack:
+- /var/task/XAI__Backend/node_modules/@bull-board/api/dist/src/index.js
+- /var/task/XAI__Backend/job/utils/queue.helper.js
+- /var/task/XAI__Backend/job/process_manager.js
+- /var/task/XAI__Backend/job/process_worker.js
+- /var/task/XAI__Backend/app/app.js
+- /var/task/XAI__Backend/index.js
+- /opt/rust/nodejs.js
+Did you forget to add it to ""dependencies"" in `package.json`?
+Node.js process exited with exit status: 1. The logs above can help with debugging the issue.","prj_Q8w42Wol80dgGPVIRSqZNOMFQ0Rl","","","01K1MC0FSA0YRF7ASN7BXAXQFS","",-1
+"2025-08-02 03:08:10",1754104090057,"trading-bot-ocvv-ijkejyay8-dairus-projects-b0d274d8.vercel.app/","GET","",-1,"bdsmc-1754104086049-e8411549dd3e","vercel-screenshot/1.0","error","production","main","MISS","lambda","/index.js","trading-bot-ocvv-ijkejyay8-dairus-projects-b0d274d8.vercel.app","trading-bot-ocvv-ijkejyay8-dairus-projects-b0d274d8.vercel.app","dpl_BXzdhBGTKkpRByZi3dnRo6X5HzVR",-1,"iad1",-1,-1,"solana web3 https://mainnet.helius-rpc.com/?api-key=71f6e059-edd5-4255-a164-c8739a429f45
+Get Next Rpcssss https://mainnet.helius-rpc.com/?api-key=71f6e059-edd5-4255-a164-c8739a429f45
+Cannot find module '@bull-board/ui/package.json'
+Require stack:
+- /var/task/XAI__Backend/node_modules/@bull-board/api/dist/src/index.js
+- /var/task/XAI__Backend/job/utils/queue.helper.js
+- /var/task/XAI__Backend/job/process_manager.js
+- /var/task/XAI__Backend/job/process_worker.js
+- /var/task/XAI__Backend/app/app.js
+- /var/task/XAI__Backend/index.js
+- /opt/rust/nodejs.js
+Did you forget to add it to ""dependencies"" in `package.json`?
+Node.js process exited with exit status: 1. The logs above can help with debugging the issue.
+solana web3 https://mainnet.helius-rpc.com/?api-key=71f6e059-edd5-4255-a164-c8739a429f45
+Get Next Rpcssss https://mainnet.helius-rpc.com/?api-key=71f6e059-edd5-4255-a164-c8739a429f45
+Cannot find module '@bull-board/ui/package.json'
+Require stack:
+- /var/task/XAI__Backend/node_modules/@bull-board/api/dist/src/index.js
+- /var/task/XAI__Backend/job/utils/queue.helper.js
+- /var/task/XAI__Backend/job/process_manager.js
+- /var/task/XAI__Backend/job/process_worker.js
+- /var/task/XAI__Backend/app/app.js
+- /var/task/XAI__Backend/index.js
+- /opt/rust/nodejs.js
+Did you forget to add it to ""dependencies"" in `package.json`?
+Node.js process exited with exit status: 1. The logs above can help with debugging the issue.","prj_Q8w42Wol80dgGPVIRSqZNOMFQ0Rl","","","01K1MC0FS4T8YAWV9FW6YFD9ZJ","",-1
+"2025-08-02 03:08:06",1754104086314,"trading-bot-ocvv-ijkejyay8-dairus-projects-b0d274d8.vercel.app/","GET","",500,"n65mc-1754104086010-2f6773b58ea3","vercel-screenshot/1.0","error","production","main","MISS","lambda","/index.js","trading-bot-ocvv-ijkejyay8-dairus-projects-b0d274d8.vercel.app","trading-bot-ocvv-ijkejyay8-dairus-projects-b0d274d8.vercel.app","dpl_BXzdhBGTKkpRByZi3dnRo6X5HzVR",1710,"iad1",190,2048,"","prj_Q8w42Wol80dgGPVIRSqZNOMFQ0Rl","","","01K1MC0FSA0YRF7ASN7BXAXQFS","",1
+"2025-08-02 03:08:06",1754104086308,"trading-bot-ocvv-ijkejyay8-dairus-projects-b0d274d8.vercel.app/","GET","",500,"bdsmc-1754104086049-e8411549dd3e","vercel-screenshot/1.0","error","production","main","MISS","lambda","/index.js","trading-bot-ocvv-ijkejyay8-dairus-projects-b0d274d8.vercel.app","trading-bot-ocvv-ijkejyay8-dairus-projects-b0d274d8.vercel.app","dpl_BXzdhBGTKkpRByZi3dnRo6X5HzVR",1694,"iad1",187,2048,"","prj_Q8w42Wol80dgGPVIRSqZNOMFQ0Rl","","","01K1MC0FS4T8YAWV9FW6YFD9ZJ","",1

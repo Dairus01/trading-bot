@@ -26,10 +26,14 @@ class App {
     this.initializeMiddlewares();
     this.initializeRoutes();
     this.initializeErrorHandling();
-    seedAddresses();
-    startWorkers();
-    bullQueueSchedulers();
-    Cron();
+    
+    // Only run background processes if not on Vercel
+    if (process.env.VERCEL !== '1') {
+      seedAddresses();
+      startWorkers();
+      bullQueueSchedulers();
+      Cron();
+    }
     // redisClean();
   }
 
@@ -37,6 +41,11 @@ class App {
     this.app.listen(this.PORT, () => {
       logger.info(`Server running on port ${this.PORT}`);
     });
+  }
+
+  // Get the Express app for Vercel
+  getApp() {
+    return this.app;
   }
 
   connectToDatabase(connectionString = MONGODB_URI) {
