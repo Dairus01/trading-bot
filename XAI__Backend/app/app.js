@@ -69,6 +69,15 @@ class App {
     this.app.use(express.json());
     this.app.use(express.urlencoded({ extended: true }));
     this.app.use("/admin/queues", serverAdapter.getRouter());
+    
+    // Health check endpoint for Vercel
+    this.app.get("/health", (req, res) => {
+      res.status(200).json({
+        status: "ok",
+        message: "Server is running",
+        timestamp: new Date().toISOString()
+      });
+    });
   }
   initializeRoutes() {
     this.routes.forEach((route) => {
