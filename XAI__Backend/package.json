@@ -13,6 +13,7 @@
   "dependencies": {
     "@bull-board/api": "^4.6.0",
     "@bull-board/express": "^4.6.0",
+    "@bull-board/ui": "^4.6.0",
     "@metaplex-foundation/js": "^0.20.1",
     "@metaplex-foundation/mpl-token-metadata": "^3.2.1",
     "@project-serum/anchor": "^0.26.0",
