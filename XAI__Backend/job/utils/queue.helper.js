@@ -1,16 +1,11 @@
 const Queue = require("bull");
-const { createBullBoard } = require("@bull-board/api");
-const { BullAdapter } = require("@bull-board/api/bullAdapter");
-const { ExpressAdapter } = require("@bull-board/express");
 const { REDIS_HOST, REDIS_PORT } = require("../../configs/env.js");
 
 class QueueHelper {
   constructor() {
-    this.serverAdapter = new ExpressAdapter();
-    this.bullBoard = createBullBoard({
-      queues: [],
-      serverAdapter: this.serverAdapter,
-    });
+    // Disable Bull Board for Vercel deployment to avoid dependency issues
+    this.serverAdapter = null;
+    this.bullBoard = null;
   }
 
   getServerAdapter() {
@@ -59,11 +54,13 @@ class QueueHelper {
   }
 
   async deleteQueueFromBullBoard(queue_instance) {
-    this.bullBoard.removeQueue(new BullAdapter(queue_instance));
+    // Bull Board disabled for Vercel
+    return true;
   }
 
   async addQueueToBullBoard(queue_instance) {
-    this.bullBoard.addQueue(new BullAdapter(queue_instance));
+    // Bull Board disabled for Vercel
+    return true;
   }
 }
 

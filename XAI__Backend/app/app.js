@@ -12,7 +12,10 @@ const { bullQueueSchedulers } = require("../job/add_task");
 const redisClean = require("../app/cron/clear.redis");
 const Cron = require("../app/cron/redis.cron");
 const serverAdapter = require("../job/utils/queue.helper").getServerAdapter();
-serverAdapter.setBasePath("/admin/queues");
+// Only set up Bull Board if serverAdapter exists (disabled for Vercel)
+if (serverAdapter) {
+  serverAdapter.setBasePath("/admin/queues");
+}
 // Don't initialize Raydium listener immediately - it will be started by workers when needed
 
 class App {
@@ -68,7 +71,11 @@ class App {
     this.app.use(cors({ origin: "*" }));
     this.app.use(express.json());
     this.app.use(express.urlencoded({ extended: true }));
-    this.app.use("/admin/queues", serverAdapter.getRouter());
+    
+    // Only add Bull Board routes if serverAdapter exists (disabled for Vercel)
+    if (serverAdapter) {
+      this.app.use("/admin/queues", serverAdapter.getRouter());
+    }
     
     // Health check endpoint for Vercel
     this.app.get("/health", (req, res) => {
